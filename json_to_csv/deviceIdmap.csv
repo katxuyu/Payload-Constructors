@@ -1,0 +1,923 @@
+tenant name,integration name,data converter name,webhook name,device name,device id v2,device id v1
+si_magnifi,magnifi-tower-sway,magnifi-tower-sway,magnifi-tower-sway,ESN 9616 - Pintasan Puchong - Tower Sway,a11dbb30-4f58-11ed-b04b-61e292f04158,3a18e680-16dc-11ed-b96a-419673351426
+si_magnifi,magnifi-modbus,magnifi-modbus,magnifi-modbus,ESN 8711 - Muzium Negara - Energy Meter,a132a2c0-4f58-11ed-b04b-61e292f04158,50124c30-fb73-11ec-80a9-83a6055f2008
+si_magnifi,magnifi-modbus,magnifi-modbus,magnifi-modbus,ESN 8744 - KM 18.7 MEX Hwy - Energy Meter,a12d99b0-4f58-11ed-b04b-61e292f04158,6d119bb0-13f1-11ed-b96a-419673351426
+si_magnifi,magnifi-modbus,magnifi-modbus,magnifi-modbus,ESN 8748 - Pintasan Puchong - Energy Meter,a12c8840-4f58-11ed-b04b-61e292f04158,75ceb300-13f1-11ed-b96a-419673351426
+si_magnifi,magnifi-modbus,magnifi-modbus,magnifi-modbus,ESN 8750 - Masjid Bukit Aman - Energy Meter,a1261fa0-4f58-11ed-b04b-61e292f04158,7f014870-13f1-11ed-b96a-419673351426
+si_magnifi,magnifi-modbus,magnifi-modbus,magnifi-modbus,ESN 8713 - Desa Parkcity - Energy Meter,a125aa70-4f58-11ed-b04b-61e292f04158,87b278e0-13f1-11ed-b96a-419673351426
+si_magnifi,magnifi-modbus,magnifi-modbus,magnifi-modbus,ESN 8758 - Precinct 17 - Energy Meter,a11de240-4f58-11ed-b04b-61e292f04158,91eedd30-13f1-11ed-b96a-419673351426
+si_upri,upd-devices,upd-devices,upd-devices,Temphum Sensor,d9eeb460-4b06-11ed-b04b-61e292f04158,685028a0-857e-11ec-b372-23a85237172f
+si_upri,upd-devices,upd-devices,upd-devices,Proximity 6687,d9e76160-4b06-11ed-b04b-61e292f04158,b20e86c0-857f-11ec-b372-23a85237172f
+si_upri,upd-dev-all,upd-dev-all,upd-devices,Proximity 4m,d9e7af80-4b06-11ed-b04b-61e292f04158,ecfe3c40-99ce-11ec-b372-23a85237172f
+si_upri,upd-dev-all,upd-dev-all,upd-devices,Temphum Sensor,d9eeb460-4b06-11ed-b04b-61e292f04158,685028a0-857e-11ec-b372-23a85237172f
+si_upri,UPD packetDUINO,UPD packetDUINO,upd-devices,ESN 5769,d9f6a3a0-4b06-11ed-b04b-61e292f04158,73dcab70-f5a6-11eb-be49-73e9bda34ef3
+si_upri,ultrasonic_proximity_4m,ultrasonic_proximity_4m,upd-devices,ESN 6112,da01c730-4b06-11ed-b04b-61e292f04158,7d251550-0ed4-11eb-989f-93eb583aac32
+si_upri,test_temphum,test_temphum,packetworx-test-devices,ESN 5864,d9fda880-4b06-11ed-b04b-61e292f04158,33b95bf0-3a81-11eb-bdfc-f78879e6bc1d
+Botonym,botonym optical pulse,botonym optical pulse,,ESN 7001,a7af3e80-4afb-11ed-b04b-61e292f04158,#N/A
+si_lgprime,Wave Counter,Wave Counter,null,units_counter,4feb82b0-4a35-11ed-b04b-61e292f04158,e3837150-ce18-11e9-bee7-4f1046ce4ca3
+si_lgprime,water temp dlsz,DLSZ Water Temperature Jam,null,water_temperature_002,4fd821c0-4a35-11ed-b04b-61e292f04158,305f8e80-cefc-11e9-bee7-4f1046ce4ca3
+si_lgprime,Water Mater,Water Meter,lg-water-meter-demo,LG_water_meter_001,4ff2aea0-4a35-11ed-b04b-61e292f04158,c3521ad0-cd4b-11e9-bee7-4f1046ce4ca3
+si_lgprime,Verla,Verla,null,Device_Verla,4fd1b920-4a35-11ed-b04b-61e292f04158,5c73c5d0-cfa7-11e9-91b3-1d7538dfdcb1
+si_lgprime,test device kyle,test device kyle,test-device-kyle,00740052206796,4aa25c70-4a35-11ed-b04b-61e292f04158,e69cdf70-b57e-11ec-80a9-83a6055f2008
+si_lgprime,Temp Device,Temperature,null,temperature,#N/A,#N/A
+si_lgprime,Royal Cargo Bulacan,Royal Cargo Bulacan,talkpool-oy1110royalcargo,Room 5,4f9ee950-4a35-11ed-b04b-61e292f04158,b4568c00-6b3d-11eb-bdfc-f78879e6bc1d
+si_lgprime,Royal Cargo 2,Royal Cargo 2,talkpool-oy1110-sensors,Device P1- F,4fcbc5b0-4a35-11ed-b04b-61e292f04158,db190790-cfbd-11e9-91b3-1d7538dfdcb1
+si_lgprime,Royal Cargo 1,Royal Cargo 1,null,Device P1- F,4fcbc5b0-4a35-11ed-b04b-61e292f04158,db190790-cfbd-11e9-91b3-1d7538dfdcb1
+si_lgprime,Royal Cargo 1,Royal Cargo 1,null,Device P1- C,4fcc8900-4a35-11ed-b04b-61e292f04158,767dfbc0-cfbc-11e9-91b3-1d7538dfdcb1
+si_lgprime,Royal Cargo,Royal Cargo,null,Device P1- F,4fcbc5b0-4a35-11ed-b04b-61e292f04158,db190790-cfbd-11e9-91b3-1d7538dfdcb1
+si_lgprime,PH Wave,PH Wave,null,Ph,#N/A,#N/A
+si_lgprime,People Counter,People Counter,null,people_counter,4febd0d0-4a35-11ed-b04b-61e292f04158,cd097f50-ce09-11e9-91b3-1d7538dfdcb1
+si_lgprime,Olympus,Olympus,null,pro_tvoc,4ff93e50-4a35-11ed-b04b-61e292f04158,ae5e55a0-cd26-11e9-91b3-1d7538dfdcb1
+si_lgprime,Olympus,Olympus,null,temperature_humidity,#N/A,#N/A
+si_lgprime,manila-water-large-meters,manila-water-large-meters,manila-water-large-meters,31022935,4acc52a0-4a35-11ed-b04b-61e292f04158,29c71fe0-85a0-11ec-b372-23a85237172f
+si_lgprime,manila-water-large-meters,manila-water-large-meters,manila-water-large-meters,31022936 11th AVENUE DN150,4ac770a0-4a35-11ed-b04b-61e292f04158,320a4c40-85a0-11ec-b372-23a85237172f
+si_lgprime,manila-water-large-meters,manila-water-large-meters,manila-water-large-meters,31022937 BALANTI DN150,4ac6ad50-4a35-11ed-b04b-61e292f04158,370fb2c0-85a0-11ec-b372-23a85237172f
+si_lgprime,manila-water-large-meters,manila-water-large-meters,manila-water-large-meters,31022939 AFPOVAI DN100,4ac0e0f0-4a35-11ed-b04b-61e292f04158,41e1c760-85a0-11ec-b372-23a85237172f
+si_lgprime,manila-water-large-meters,manila-water-large-meters,manila-water-large-meters,31022940 NORTH GREENHILLS DN200,4abb3ba0-4a35-11ed-b04b-61e292f04158,4c9186f0-85a0-11ec-b372-23a85237172f
+si_lgprime,manila-water-large-meters,manila-water-large-meters,manila-water-large-meters,31022941 JONES DN200,4abb1490-4a35-11ed-b04b-61e292f04158,50b40780-85a0-11ec-b372-23a85237172f
+si_lgprime,manila-water-large-meters,manila-water-large-meters,manila-water-large-meters,31022942,4ab5bd60-4a35-11ed-b04b-61e292f04158,54d835c0-85a0-11ec-b372-23a85237172f
+si_lgprime,manila-water-large-meters,manila-water-large-meters,manila-water-large-meters,31022943 ROLLING HILLS 1 & 2 DN300,4ab5bd61-4a35-11ed-b04b-61e292f04158,5af96c80-85a0-11ec-b372-23a85237172f
+si_lgprime,manila-water-large-meters,manila-water-large-meters,manila-water-large-meters,31022944 ADB DN300,4aafa2e0-4a35-11ed-b04b-61e292f04158,605138c0-85a0-11ec-b372-23a85237172f
+si_lgprime,LG_Water_Meter,LG_Water_meter,null,pwx-water-meter-0105,4fc228c0-4a35-11ed-b04b-61e292f04158,a4fb4c90-d0a3-11e9-bee7-4f1046ce4ca3
+si_lgprime,lg-water-meter-demo - duplicate,lg-water-meter-demo - duplicate,null,Water Meter 2,4fc005e0-4a35-11ed-b04b-61e292f04158,d67a0120-d0c7-11e9-bee7-4f1046ce4ca3
+si_lgprime,lg-water-meter-demo - duplicate,lg-water-meter-demo - duplicate,null,Water Meter 1,4fc499c0-4a35-11ed-b04b-61e292f04158,aa82e390-d070-11e9-bee7-4f1046ce4ca3
+si_lgprime,LG Water Mater,LG Water Meter,null,water_meter_0104,4faf6410-4a35-11ed-b04b-61e292f04158,2cca5dd0-d623-11e9-83f2-35d64b56884c
+si_lgprime,KLT_Temperature,KLT_Temperature water,null,water_temperature_001,#N/A,#N/A
+si_lgprime,DLSZ Solar,DLSZ Solar,null,Solar_rpod,4fd98150-4a35-11ed-b04b-61e292f04158,60979970-cef8-11e9-bee7-4f1046ce4ca3
+si_lgprime,DLSZ Smart Room,DLSZ Smart Room,null,talkpool9e,#N/A,#N/A
+si_lgprime,DLSZ Smart Room,DLSZ Smart Room,null,talkpool9f,#N/A,#N/A
+si_lgprime,DLSZ Smart Room,DLSZ Smart Room,null,Room 9C esn3763,4fd2a380-4a35-11ed-b04b-61e292f04158,71842ed0-cf8c-11e9-91b3-1d7538dfdcb1
+si_lgprime,DLSZ Smart Room,DLSZ Smart Room,null,Room 9B esn1166,#N/A,#N/A
+si_lgprime,bove-ultrasonicwatermeter,bove-ultrasonicwatermeter,null,30002184,4afb51e0-4a35-11ed-b04b-61e292f04158,73ff4c50-6c4f-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001576,4bc1fd40-4a35-11ed-b04b-61e292f04158,a8f33550-52a7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001577,4bbf6530-4a35-11ed-b04b-61e292f04158,b7131560-52a7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001578,4f675e90-4a35-11ed-b04b-61e292f04158,26fc6410-50cf-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001579,4f4f90d1-4a35-11ed-b04b-61e292f04158,8285a8e0-50d0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001580,4f2d14b0-4a35-11ed-b04b-61e292f04158,c6ab6bc0-50d2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001581,4f3a8230-4a35-11ed-b04b-61e292f04158,cab9bd80-50d1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001582,4bbd9070-4a35-11ed-b04b-61e292f04158,5eec98b0-52a8-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001584,4bbaf860-4a35-11ed-b04b-61e292f04158,6bcd6910-52a8-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001585,4bb7eb20-4a35-11ed-b04b-61e292f04158,758979d0-52a8-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001586,4bb57a20-4a35-11ed-b04b-61e292f04158,7b8d1671-52a8-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001587,4f7f2c50-4a35-11ed-b04b-61e292f04158,b08126c0-50cb-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001588,4f5e84f0-4a35-11ed-b04b-61e292f04158,37c0b030-50cf-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001591,4bb33030-4a35-11ed-b04b-61e292f04158,8d636ed0-52a8-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001592,4f3d4151-4a35-11ed-b04b-61e292f04158,b8285280-50d1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001593,4f784e80-4a35-11ed-b04b-61e292f04158,95dcf8c0-50cc-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001594,4f79ae10-4a35-11ed-b04b-61e292f04158,5f58fa60-50cc-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001595,4f705f40-4a35-11ed-b04b-61e292f04158,963e40b0-50ce-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001596,4f31cfa0-4a35-11ed-b04b-61e292f04158,2fd73530-50d2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001598,4f83e740-4a35-11ed-b04b-61e292f04158,2bf2d340-50cb-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001599,4bb15b70-4a35-11ed-b04b-61e292f04158,9f012b00-52a8-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001600,4f578010-4a35-11ed-b04b-61e292f04158,622c1ac0-50d0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001601,4f5d7380-4a35-11ed-b04b-61e292f04158,c33fe680-50cf-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001602,4f4b7220-4a35-11ed-b04b-61e292f04158,6ccb6a20-50d1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001603,4f341990-4a35-11ed-b04b-61e292f04158,fb1e32d0-50d1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001604,4f444630-4a35-11ed-b04b-61e292f04158,892da660-50d1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001607,4bae2720-4a35-11ed-b04b-61e292f04158,674473a0-52aa-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001610,4f7408c0-4a35-11ed-b04b-61e292f04158,e7960890-50cd-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001611,4baceea0-4a35-11ed-b04b-61e292f04158,83cc6050-52aa-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001612,4ba8a8e0-4a35-11ed-b04b-61e292f04158,88da7960-52aa-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001613,4f555d30-4a35-11ed-b04b-61e292f04158,6a8abe60-50d0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001615,4f6c67a0-4a35-11ed-b04b-61e292f04158,9eb2dd50-50ce-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001617,4ba80ca0-4a35-11ed-b04b-61e292f04158,915a1280-52aa-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001619,4f5a1820-4a35-11ed-b04b-61e292f04158,c50f4f50-50cf-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001621,4ba3c6e0-4a35-11ed-b04b-61e292f04158,bac7d8a0-52aa-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001622,4f6b0810-4a35-11ed-b04b-61e292f04158,dae5efb0-50ce-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001623,4f754140-4a35-11ed-b04b-61e292f04158,a1974a80-50cc-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001624,4f4cf8c0-4a35-11ed-b04b-61e292f04158,93f02010-50d0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001625,4ba30390-4a35-11ed-b04b-61e292f04158,c1a07880-52aa-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001626,4b9f8120-4a35-11ed-b04b-61e292f04158,c8662ca0-52aa-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001627,4f488bf0-4a35-11ed-b04b-61e292f04158,7b9545d0-50d1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001628,4b9f0bf0-4a35-11ed-b04b-61e292f04158,ce3599e0-52aa-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001629,4b9a9f20-4a35-11ed-b04b-61e292f04158,d2ea2144-52aa-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001630,4f41fc40-4a35-11ed-b04b-61e292f04158,a2a65740-50d1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001631,4f3f6430-4a35-11ed-b04b-61e292f04158,a64ca2f0-50d1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001633,4f65ff00-4a35-11ed-b04b-61e292f04158,35847bd0-50cf-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001635,4f2af1d0-4a35-11ed-b04b-61e292f04158,cbed6610-50d2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001636,4b9a7810-4a35-11ed-b04b-61e292f04158,f74142d0-52aa-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001637,4f38fb90-4a35-11ed-b04b-61e292f04158,d677b8c0-50d1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001639,4f51b3b0-4a35-11ed-b04b-61e292f04158,73837f20-50d0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001640,4f466910-4a35-11ed-b04b-61e292f04158,7d87c700-50d1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001642,4f366380-4a35-11ed-b04b-61e292f04158,f8b5e560-50d1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001643,4f7cbb50-4a35-11ed-b04b-61e292f04158,2fff3e50-50cc-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001644,4b968070-4a35-11ed-b04b-61e292f04158,12cc0ad0-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001645,4f6fc300-4a35-11ed-b04b-61e292f04158,98322170-50ce-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001646,4f2f85b0-4a35-11ed-b04b-61e292f04158,70f632a2-50d2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001647,4f82aec0-4a35-11ed-b04b-61e292f04158,5e625ad0-50cb-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001649,4b965960-4a35-11ed-b04b-61e292f04158,177c2560-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001650,4ed70570-4a35-11ed-b04b-61e292f04158,5445ce00-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001652,4ec55230-4a35-11ed-b04b-61e292f04158,86de1340-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001654,4d4282c0-4a35-11ed-b04b-61e292f04158,62efefe0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001655,4d7e0520-4a35-11ed-b04b-61e292f04158,cd9735c0-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001658,4ed97670-4a35-11ed-b04b-61e292f04158,4650a770-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001659,4b91ec90-4a35-11ed-b04b-61e292f04158,387af430-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001660,4bf3e2b0-4a35-11ed-b04b-61e292f04158,80630310-50e8-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001661,4d86dec0-4a35-11ed-b04b-61e292f04158,ae1eb8d0-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001662,4b91c580-4a35-11ed-b04b-61e292f04158,646700c0-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001663,4d431f00-4a35-11ed-b04b-61e292f04158,4f1d7960-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001665,4b8d7fc0-4a35-11ed-b04b-61e292f04158,6d0370b0-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001666,4d34a010-4a35-11ed-b04b-61e292f04158,76fb50b0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001667,4eee0fe0-4a35-11ed-b04b-61e292f04158,30879110-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001669,4c3187f0-4a35-11ed-b04b-61e292f04158,2b66fd40-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001670,4cb1b470-4a35-11ed-b04b-61e292f04158,e59bf960-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001671,4cfc03e0-4a35-11ed-b04b-61e292f04158,1f9a6df0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001672,4e96ef30-4a35-11ed-b04b-61e292f04158,2cf8f6a0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001673,4e677ac0-4a35-11ed-b04b-61e292f04158,c0582ab0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001674,4b8cbc70-4a35-11ed-b04b-61e292f04158,8c73fe60-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001675,4effea30-4a35-11ed-b04b-61e292f04158,cb9c25e0-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001676,4b893a02-4a35-11ed-b04b-61e292f04158,924e1a00-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001677,4b87da70-4a35-11ed-b04b-61e292f04158,97b130e0-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001678,4ef318f0-4a35-11ed-b04b-61e292f04158,21727b90-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001679,4e09a350-4a35-11ed-b04b-61e292f04158,563fde60-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001680,4dcaeca0-4a35-11ed-b04b-61e292f04158,0a4ba290-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001681,4b84cd30-4a35-11ed-b04b-61e292f04158,b2dff630-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001682,4b82aa50-4a35-11ed-b04b-61e292f04158,b9f79ae0-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001684,4e243030-4a35-11ed-b04b-61e292f04158,32c190a0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001685,4b7f7600-4a35-11ed-b04b-61e292f04158,bff0fe50-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001686,4b7da140-4a35-11ed-b04b-61e292f04158,c5f58550-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30001687,4b7a45e0-4a35-11ed-b04b-61e292f04158,cbe747a0-52ab-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002136,4ef75eb0-4a35-11ed-b04b-61e292f04158,0ad3ecc0-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002137,4e0eac61-4a35-11ed-b04b-61e292f04158,4db87d10-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002138,4d491270-4a35-11ed-b04b-61e292f04158,4df489c0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002139,4c84b100-4a35-11ed-b04b-61e292f04158,53dc00f0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002140,4cf32a40-4a35-11ed-b04b-61e292f04158,422a15f0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002142,4d9d9b10-4a35-11ed-b04b-61e292f04158,6dc33270-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002143,4e07ce90-4a35-11ed-b04b-61e292f04158,58ce0350-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002144,4c5dc810-4a35-11ed-b04b-61e292f04158,9c604de0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002148,4c1b19c0-4a35-11ed-b04b-61e292f04158,6439cda0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002150,4cae5910-4a35-11ed-b04b-61e292f04158,f2247090-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002151,4ca00130-4a35-11ed-b04b-61e292f04158,1fe51610-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002155,4dc631b0-4a35-11ed-b04b-61e292f04158,14f15000-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002157,4c966440-4a35-11ed-b04b-61e292f04158,2dcea3e0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002159,4f191780-4a35-11ed-b04b-61e292f04158,6c866980-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002160,4c7aed00-4a35-11ed-b04b-61e292f04158,6f8acbb0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002161,4c3669f0-4a35-11ed-b04b-61e292f04158,1e07ae10-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002162,4c6409a0-4a35-11ed-b04b-61e292f04158,9781a940-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002164,4e26ef51-4a35-11ed-b04b-61e292f04158,32955080-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002165,4d548420-4a35-11ed-b04b-61e292f04158,2aeec760-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002167,4ebb1900-4a35-11ed-b04b-61e292f04158,a39aa480-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002168,4ef82200-4a35-11ed-b04b-61e292f04158,01cc8600-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002169,4e047330-4a35-11ed-b04b-61e292f04158,5a4c8d00-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002170,4e84c6c0-4a35-11ed-b04b-61e292f04158,8a2d21c0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002171,4ea7df20-4a35-11ed-b04b-61e292f04158,ceef5310-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002173,4eca0d20-4a35-11ed-b04b-61e292f04158,6409c120-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002174,4eee8510-4a35-11ed-b04b-61e292f04158,25b6b4f0-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002175,4cdd3140-4a35-11ed-b04b-61e292f04158,69c36a30-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002176,4df35c30-4a35-11ed-b04b-61e292f04158,9a5b7a00-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002179,4de0e5a0-4a35-11ed-b04b-61e292f04158,d5cee5e0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002180,4c27c3f1-4a35-11ed-b04b-61e292f04158,406e4a40-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002185,4b790d60-4a35-11ed-b04b-61e292f04158,64b47d20-52ae-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002186,4e91bf10-4a35-11ed-b04b-61e292f04158,3abf9320-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002187,4b758af0-4a35-11ed-b04b-61e292f04158,6b0f3a70-52ae-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002188,4e8c8ef0-4a35-11ed-b04b-61e292f04158,41239f40-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002189,4c11caf0-4a35-11ed-b04b-61e292f04158,8d688ef0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002190,4d3c1a20-4a35-11ed-b04b-61e292f04158,6e6b15c0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002191,4d0a34b0-4a35-11ed-b04b-61e292f04158,dac609a0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002192,4ccb2fe0-4a35-11ed-b04b-61e292f04158,9c34c680-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002193,4df7f010-4a35-11ed-b04b-61e292f04158,84be2e90-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002195,4ea212c0-4a35-11ed-b04b-61e292f04158,d28ff970-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002197,4e8981b0-4a35-11ed-b04b-61e292f04158,53b77b40-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002198,4e122ed0-4a35-11ed-b04b-61e292f04158,4bac5960-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002199,4e753660-4a35-11ed-b04b-61e292f04158,bd6c0740-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002200,4e20adc0-4a35-11ed-b04b-61e292f04158,3a478780-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002201,4decf390-4a35-11ed-b04b-61e292f04158,ae87f760-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002202,4ed298a0-4a35-11ed-b04b-61e292f04158,5cf529b0-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002203,4ddb1940-4a35-11ed-b04b-61e292f04158,de6b2ec0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002204,4eacc120-4a35-11ed-b04b-61e292f04158,bf315360-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002205,4e2abfe0-4a35-11ed-b04b-61e292f04158,2cc87b50-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002206,4ca97710-4a35-11ed-b04b-61e292f04158,f8991e80-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30002207,4cbf9720-4a35-11ed-b04b-61e292f04158,b7cab210-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003601,4cbc3bc0-4a35-11ed-b04b-61e292f04158,b9c52280-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003602,4ecd8f90-4a35-11ed-b04b-61e292f04158,61fed5f0-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003603,4ae9c5b0-4a35-11ed-b04b-61e292f04158,0ead1960-781e-11ec-9475-a9ee85cde94b
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003604,4adfb390-4a35-11ed-b04b-61e292f04158,63ab5fc0-7838-11ec-9475-a9ee85cde94b
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003605,4d933ad0-4a35-11ed-b04b-61e292f04158,7f3dd640-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003606,4bc3d200-4a35-11ed-b04b-61e292f04158,f8aedaa0-51fc-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003607,4c1637c0-4a35-11ed-b04b-61e292f04158,8299aea0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003608,4eb65e10-4a35-11ed-b04b-61e292f04158,ab9a5f40-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003610,4c159b80-4a35-11ed-b04b-61e292f04158,862b39d0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003611,4d907bb0-4a35-11ed-b04b-61e292f04158,81068850-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003612,4dae63f0-4a35-11ed-b04b-61e292f04158,47294cd0-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003614,4c27c3f0-4a35-11ed-b04b-61e292f04158,42ab6900-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003615,4c2ccd00-4a35-11ed-b04b-61e292f04158,32305ae0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003617,4f257390-4a35-11ed-b04b-61e292f04158,60cbc9a0-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003618,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003619,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003620,4f108c00-4a35-11ed-b04b-61e292f04158,763d9840-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003621,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003622,4d2de950-4a35-11ed-b04b-61e292f04158,8f71d3d0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003623,4e577530-4a35-11ed-b04b-61e292f04158,d2c4cfa0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003624,4c74ab70-4a35-11ed-b04b-61e292f04158,7a4dc520-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003625,4ecfb270-4a35-11ed-b04b-61e292f04158,5e917490-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003626,4dfa6110-4a35-11ed-b04b-61e292f04158,83fb53c0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003627,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003628,4dffdf50-4a35-11ed-b04b-61e292f04158,7078d200-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003629,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003630,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003631,4ebdff30-4a35-11ed-b04b-61e292f04158,a0ac5e30-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003632,4e8ed8e1-4a35-11ed-b04b-61e292f04158,3af6a8b0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003633,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003634,4ee906d0-4a35-11ed-b04b-61e292f04158,39f02aa0-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003637,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003638,4acc79b0-4a35-11ed-b04b-61e292f04158,ef7f3820-82e0-11ec-b372-23a85237172f
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003639,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003641,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003642,4edd9520-4a35-11ed-b04b-61e292f04158,43c03890-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003643,4cc93410-4a35-11ed-b04b-61e292f04158,9ff047e0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003644,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003646,4bd16690-4a35-11ed-b04b-61e292f04158,c7548590-50e9-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003647,4e2c4680-4a35-11ed-b04b-61e292f04158,278150e0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003648,4da34060-4a35-11ed-b04b-61e292f04158,5c47cb50-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003649,4e80a811-4a35-11ed-b04b-61e292f04158,b828fb80-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003650,4d794a30-4a35-11ed-b04b-61e292f04158,e8567060-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003650,4d794a30-4a35-11ed-b04b-61e292f04158,e8567060-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003652,4d710cd0-4a35-11ed-b04b-61e292f04158,f10249a0-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003653,4e3a7750-4a35-11ed-b04b-61e292f04158,1e1730b0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003656,4c1a0850-4a35-11ed-b04b-61e292f04158,68e09960-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003657,4e48f640-4a35-11ed-b04b-61e292f04158,f1acf370-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003658,4f163150-4a35-11ed-b04b-61e292f04158,70fa3e60-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003659,4ea6cdb0-4a35-11ed-b04b-61e292f04158,cf7bb490-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003660,4cacf980-4a35-11ed-b04b-61e292f04158,f22d7140-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003662,4cf39f70-4a35-11ed-b04b-61e292f04158,40014280-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003663,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003665,4d68a861-4a35-11ed-b04b-61e292f04158,050741d0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003666,4ae50ac0-4a35-11ed-b04b-61e292f04158,0536c560-7838-11ec-9475-a9ee85cde94b
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003667,4efd7930-4a35-11ed-b04b-61e292f04158,f38f32e0-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003668,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003669,4c45fa50-4a35-11ed-b04b-61e292f04158,02d34370-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003670,4dd43b70-4a35-11ed-b04b-61e292f04158,f404d0b0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003671,4d181760-4a35-11ed-b04b-61e292f04158,b5c317b0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003672,4bd02e10-4a35-11ed-b04b-61e292f04158,b2bc8a40-50eb-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003673,4cc42b00-4a35-11ed-b04b-61e292f04158,b1830790-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003674,4c22bae0-4a35-11ed-b04b-61e292f04158,4ca4a9d0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003675,4c5d04c0-4a35-11ed-b04b-61e292f04158,bd4e7ae0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003676,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003677,4d00bed0-4a35-11ed-b04b-61e292f04158,0cef8780-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003679,4c883370-4a35-11ed-b04b-61e292f04158,53d01a10-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003681,4e4db130-4a35-11ed-b04b-61e292f04158,e8d8f8c0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003682,4cbb0340-4a35-11ed-b04b-61e292f04158,c3107010-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003684,4ee9ca20-4a35-11ed-b04b-61e292f04158,34dc6c40-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003685,4ad1d0e0-4a35-11ed-b04b-61e292f04158,60a94e90-80e4-11ec-9475-a9ee85cde94b
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003686,4e312880-4a35-11ed-b04b-61e292f04158,21a44f10-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003688,4db7b2c0-4a35-11ed-b04b-61e292f04158,32ddaeb0-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003689,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003690,4ae5f520-4a35-11ed-b04b-61e292f04158,1a23d270-781e-11ec-9475-a9ee85cde94b
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003691,4da981f0-4a35-11ed-b04b-61e292f04158,4a2d16f0-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003692,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003694,4c237e30-4a35-11ed-b04b-61e292f04158,48a7b2a0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003695,4da3b590-4a35-11ed-b04b-61e292f04158,51dda040-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003696,4ef3b530-4a35-11ed-b04b-61e292f04158,0f889b30-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003698,4c91d060-4a35-11ed-b04b-61e292f04158,3ce280e0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003699,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003700,4d66fab0-4a35-11ed-b04b-61e292f04158,07131760-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003701,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003702,4ce9b461-4a35-11ed-b04b-61e292f04158,522d8310-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003703,4ad83980-4a35-11ed-b04b-61e292f04158,484f8d40-7f5a-11ec-9475-a9ee85cde94b
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003704,4f0b5be1-4a35-11ed-b04b-61e292f04158,94155d80-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003705,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003706,4e574e20-4a35-11ed-b04b-61e292f04158,dd295560-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003707,4d8c35f0-4a35-11ed-b04b-61e292f04158,915cd060-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003708,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003709,4c1ec340-4a35-11ed-b04b-61e292f04158,54e4a1e0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003710,4ca46e01-4a35-11ed-b04b-61e292f04158,0db81230-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003711,4de356a0-4a35-11ed-b04b-61e292f04158,caf9eb10-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003714,4e7c3b40-4a35-11ed-b04b-61e292f04158,ba9b8220-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003715,4edcf8e0-4a35-11ed-b04b-61e292f04158,4451a320-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003717,4e6d2010-4a35-11ed-b04b-61e292f04158,bf879440-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003718,4e5ccc60-4a35-11ed-b04b-61e292f04158,d0711ba0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003719,4c55b1c0-4a35-11ed-b04b-61e292f04158,d92d2f40-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003720,4c076ab0-4a35-11ed-b04b-61e292f04158,9fed01a0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003721,4e79ca40-4a35-11ed-b04b-61e292f04158,bb2153f0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003722,4c3112c0-4a35-11ed-b04b-61e292f04158,2d47cb30-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003723,4dddb150-4a35-11ed-b04b-61e292f04158,d839cb60-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003724,4e94cc50-4a35-11ed-b04b-61e292f04158,2dff9130-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003725,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003726,4c492ea1-4a35-11ed-b04b-61e292f04158,fb386500-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003727,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003728,4cce1610-4a35-11ed-b04b-61e292f04158,9355f660-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003730,4ec81150-4a35-11ed-b04b-61e292f04158,84080fe0-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003731,4db345f0-4a35-11ed-b04b-61e292f04158,38248b00-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003732,4ed46d60-4a35-11ed-b04b-61e292f04158,5aa8efc0-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003733,4deec850-4a35-11ed-b04b-61e292f04158,aaeb96c0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003734,4e1710d0-4a35-11ed-b04b-61e292f04158,464a7b00-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003735,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003736,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003737,4d59db50-4a35-11ed-b04b-61e292f04158,27fdc1f0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003738,4eab3a80-4a35-11ed-b04b-61e292f04158,c2b9b6d0-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003741,4dadc7b0-4a35-11ed-b04b-61e292f04158,48f162a0-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003742,4c2ca5f0-4a35-11ed-b04b-61e292f04158,399a8c60-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003743,4aeab010-4a35-11ed-b04b-61e292f04158,d436d230-781d-11ec-9475-a9ee85cde94b
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003744,4e485a00-4a35-11ed-b04b-61e292f04158,f7e2eab0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003745,4c7cc1c1-4a35-11ed-b04b-61e292f04158,663ebad0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003746,4d0070b0-4a35-11ed-b04b-61e292f04158,1999b780-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003747,4dd4b0a0-4a35-11ed-b04b-61e292f04158,ef80f640-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003748,4d18dab0-4a35-11ed-b04b-61e292f04158,b1020d30-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003750,4de5a091-4a35-11ed-b04b-61e292f04158,c8a302c0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003751,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003752,4c538ee0-4a35-11ed-b04b-61e292f04158,dbcb0ba0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003753,4dd94482-4a35-11ed-b04b-61e292f04158,e88df090-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003754,4e1e3cc0-4a35-11ed-b04b-61e292f04158,3c3c0480-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003755,4cf7e530-4a35-11ed-b04b-61e292f04158,290b6bf0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003756,4f09d540-4a35-11ed-b04b-61e292f04158,9e9867c0-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003757,4eb39ef0-4a35-11ed-b04b-61e292f04158,b2422b20-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003758,4e1451b0-4a35-11ed-b04b-61e292f04158,466fdd50-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003760,4f1ee3e0-4a35-11ed-b04b-61e292f04158,62fb2cc0-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003761,4aee80a0-4a35-11ed-b04b-61e292f04158,17045f70-781d-11ec-9475-a9ee85cde94b
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003762,4ad79d40-4a35-11ed-b04b-61e292f04158,942df020-7fa6-11ec-9475-a9ee85cde94b
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003763,4d1cd250-4a35-11ed-b04b-61e292f04158,aab77c80-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003764,4d3451f0-4a35-11ed-b04b-61e292f04158,81084090-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003765,4c8c7930-4a35-11ed-b04b-61e292f04158,4e05dcf0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003766,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003767,4d970b60-4a35-11ed-b04b-61e292f04158,775ffb60-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003768,4e87acf1-4a35-11ed-b04b-61e292f04158,61457b90-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003769,4cf77000-4a35-11ed-b04b-61e292f04158,36f15040-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003770,4af7f680-4a35-11ed-b04b-61e292f04158,4809e910-615b-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003771,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003772,4da8bea0-4a35-11ed-b04b-61e292f04158,4c92a540-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003773,4ee4e821-4a35-11ed-b04b-61e292f04158,4016b890-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003774,4c44c1d0-4a35-11ed-b04b-61e292f04158,09accdb0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003775,4c0c25a0-4a35-11ed-b04b-61e292f04158,9b0890a0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003776,4e352020-4a35-11ed-b04b-61e292f04158,20b0ee60-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003777,4d752b80-4a35-11ed-b04b-61e292f04158,eef821c0-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003778,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003779,4c8944e0-4a35-11ed-b04b-61e292f04158,4ef17570-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003780,4eb0dfd0-4a35-11ed-b04b-61e292f04158,b6434100-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003781,4d7308a0-4a35-11ed-b04b-61e292f04158,ef24fe20-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003782,4cee6f50-4a35-11ed-b04b-61e292f04158,46bfcab0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003783,4cc144d0-4a35-11ed-b04b-61e292f04158,b22980c0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003784,4d229eb0-4a35-11ed-b04b-61e292f04158,96696d60-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003785,4aad8000-4a35-11ed-b04b-61e292f04158,6b75fc20-ae6f-11ec-80a9-83a6055f2008
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003786,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003787,4f23ecf0-4a35-11ed-b04b-61e292f04158,612ed130-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003788,4ce372d0-4a35-11ed-b04b-61e292f04158,5e8fd4a0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003789,4e3a2930-4a35-11ed-b04b-61e292f04158,1e820070-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003790,4bc66a10-4a35-11ed-b04b-61e292f04158,aacf81a0-5142-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003791,4ade5400-4a35-11ed-b04b-61e292f04158,a4b08f70-783f-11ec-9475-a9ee85cde94b
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003792,4c83c6a0-4a35-11ed-b04b-61e292f04158,5940c580-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003793,4d88da90-4a35-11ed-b04b-61e292f04158,9f7165d0-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003794,4d799850-4a35-11ed-b04b-61e292f04158,cef4f100-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003795,4dcfa790-4a35-11ed-b04b-61e292f04158,f64c4fb0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003796,4aa25c71-4a35-11ed-b04b-61e292f04158,0b626260-cd69-11ec-80a9-83a6055f2008
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003797,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003798,4f06a0f0-4a35-11ed-b04b-61e292f04158,b18c6520-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003799,4b705ad0-4a35-11ed-b04b-61e292f04158,9ce88b20-5801-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003800,4f1cc100-4a35-11ed-b04b-61e292f04158,6b3901f0-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003801,4d829900-4a35-11ed-b04b-61e292f04158,be872950-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003802,4e0cb090-4a35-11ed-b04b-61e292f04158,55337770-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003803,4eaf8040-4a35-11ed-b04b-61e292f04158,b8670b60-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003804,4ce52080-4a35-11ed-b04b-61e292f04158,5da96c40-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003805,4c106b60-4a35-11ed-b04b-61e292f04158,954b24c0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003806,4ec2ba20-4a35-11ed-b04b-61e292f04158,8a52eeb0-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003807,4c4a4010-4a35-11ed-b04b-61e292f04158,f730bf70-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003808,4c68eba0-4a35-11ed-b04b-61e292f04158,944c20c0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003809,4f054160-4a35-11ed-b04b-61e292f04158,b69f1210-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003810,4cfc5200-4a35-11ed-b04b-61e292f04158,1a5dcad0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003811,4dbd5812-4a35-11ed-b04b-61e292f04158,2c78df40-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003812,4cd08712-4a35-11ed-b04b-61e292f04158,924f0db0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003813,4c924590-4a35-11ed-b04b-61e292f04158,35e20db0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003814,4c3fb8c0-4a35-11ed-b04b-61e292f04158,155237e0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003815,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003816,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003817,4cd3e270-4a35-11ed-b04b-61e292f04158,8d1eedb0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003818,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003819,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003820,4e7efa60-4a35-11ed-b04b-61e292f04158,b900e4f0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003821,4ee4e820-4a35-11ed-b04b-61e292f04158,3d4f0d10-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003822,4ca53150-4a35-11ed-b04b-61e292f04158,f99001a0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003823,4c63bb80-4a35-11ed-b04b-61e292f04158,9c3cc050-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003824,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003826,4e75f9b0-4a35-11ed-b04b-61e292f04158,bbcdc090-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003827,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003828,4e9f53a0-4a35-11ed-b04b-61e292f04158,095609e0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003829,4cb7cef0-4a35-11ed-b04b-61e292f04158,c8eb9d20-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003830,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003831,4d986af0-4a35-11ed-b04b-61e292f04158,6e0cbe90-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003832,4efba470-4a35-11ed-b04b-61e292f04158,fb1fff30-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003834,4ad134a0-4a35-11ed-b04b-61e292f04158,c2235ac0-8126-11ec-9475-a9ee85cde94b
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003835,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003836,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003837,4e616040-4a35-11ed-b04b-61e292f04158,c9afad40-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003838,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003839,4e9a2380-4a35-11ed-b04b-61e292f04158,2a927df0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003840,4c5144f0-4a35-11ed-b04b-61e292f04158,e5513f50-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003841,4f2154e0-4a35-11ed-b04b-61e292f04158,61f55580-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003842,4d138380-4a35-11ed-b04b-61e292f04158,c51f9670-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003843,4ced84f0-4a35-11ed-b04b-61e292f04158,4cafb840-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003844,4eb91d30-4a35-11ed-b04b-61e292f04158,a6e78590-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003845,4d6c78f0-4a35-11ed-b04b-61e292f04158,01ef0550-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003846,4c413f60-4a35-11ed-b04b-61e292f04158,11593850-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003847,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003848,4e5ca550-4a35-11ed-b04b-61e292f04158,cc351fa0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003849,4db87610-4a35-11ed-b04b-61e292f04158,324c6b30-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003850,4f020d10-4a35-11ed-b04b-61e292f04158,c33c49c0-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003851,4d0f3dc0-4a35-11ed-b04b-61e292f04158,c73ea5e0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003864,4c6d5870-4a35-11ed-b04b-61e292f04158,8ed2e9d0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003865,4b6fe5a2-4a35-11ed-b04b-61e292f04158,22244030-5803-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003868,4b6955f0-4a35-11ed-b04b-61e292f04158,2ae9bbf0-5803-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003869,4b6892a0-4a35-11ed-b04b-61e292f04158,302bdd50-5803-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003870,4b63b0a0-4a35-11ed-b04b-61e292f04158,bffc6c60-5803-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003871,4c3b24e0-4a35-11ed-b04b-61e292f04158,1997a9c0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003873,4dc23a10-4a35-11ed-b04b-61e292f04158,19ecf280-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003874,4b62c640-4a35-11ed-b04b-61e292f04158,d51f30a0-5803-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003875,4e6b7260-4a35-11ed-b04b-61e292f04158,bfc2ef90-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003876,4bc7f0b0-4a35-11ed-b04b-61e292f04158,ae77dee0-50ef-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003877,4b5f1cc0-4a35-11ed-b04b-61e292f04158,e64c77c0-5803-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003878,4b5d9620-4a35-11ed-b04b-61e292f04158,eb187ec0-5803-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003879,4b5a61d0-4a35-11ed-b04b-61e292f04158,efc1e290-5803-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003880,4b592950-4a35-11ed-b04b-61e292f04158,09888c60-5804-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003881,4f28cef0-4a35-11ed-b04b-61e292f04158,5f432dd0-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003882,4c9af820-4a35-11ed-b04b-61e292f04158,25c52520-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003883,4e9b0de0-4a35-11ed-b04b-61e292f04158,1e33fcf0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003884,4cc5b1a0-4a35-11ed-b04b-61e292f04158,a005f2c0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003885,4b550aa0-4a35-11ed-b04b-61e292f04158,109b7620-5804-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003886,4d1d6e90-4a35-11ed-b04b-61e292f04158,9dd8a7f0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003888,4b549570-4a35-11ed-b04b-61e292f04158,156b4db0-5804-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003889,4e3fa770-4a35-11ed-b04b-61e292f04158,0b30c7e0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003918,4bd5ac50-4a35-11ed-b04b-61e292f04158,96e69a60-50e9-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003919,4ca865a0-4a35-11ed-b04b-61e292f04158,f8e6a240-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003920,4b500190-4a35-11ed-b04b-61e292f04158,e53b1250-5804-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003921,4b4f6550-4a35-11ed-b04b-61e292f04158,e8d57720-5804-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003922,4d04dd80-4a35-11ed-b04b-61e292f04158,f2cdc560-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003923,4ce806b0-4a35-11ed-b04b-61e292f04158,57a6ba00-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003924,4c774382-4a35-11ed-b04b-61e292f04158,79ae77e0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003925,4e836730-4a35-11ed-b04b-61e292f04158,b688e010-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003926,4d6e9bd0-4a35-11ed-b04b-61e292f04158,f14d8370-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003927,4b4a5c41-4a35-11ed-b04b-61e292f04158,ed5b9b80-5804-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003928,4dbdcd40-4a35-11ed-b04b-61e292f04158,24eec9b0-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003929,4dc6cdf0-4a35-11ed-b04b-61e292f04158,13441530-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003930,4ec04920-4a35-11ed-b04b-61e292f04158,9bc68da0-50e0-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003931,4d5a5080-4a35-11ed-b04b-61e292f04158,1a96d1a0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003933,4f0f2c70-4a35-11ed-b04b-61e292f04158,7a288e10-50df-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003934,4c9b1f30-4a35-11ed-b04b-61e292f04158,255a2e50-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003935,4b46d9d0-4a35-11ed-b04b-61e292f04158,ff79d250-5804-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003936,4b42bb20-4a35-11ed-b04b-61e292f04158,0320ba40-5805-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003937,4c96b260-4a35-11ed-b04b-61e292f04158,2c60e310-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003938,4b3f38b0-4a35-11ed-b04b-61e292f04158,06e5d890-5805-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003939,4d2eaca0-4a35-11ed-b04b-61e292f04158,83843d10-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003940,4d5ff5d0-4a35-11ed-b04b-61e292f04158,1950e420-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003941,4bef27c0-4a35-11ed-b04b-61e292f04158,a5f7d4c0-50e8-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003942,4dcf3260-4a35-11ed-b04b-61e292f04158,f6d332f0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003943,4d54ab30-4a35-11ed-b04b-61e292f04158,307a74e0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003944,4c1f3870-4a35-11ed-b04b-61e292f04158,4ff61ec0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003945,4e0313a0-4a35-11ed-b04b-61e292f04158,64f101f0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003946,4c7f32c0-4a35-11ed-b04b-61e292f04158,60605970-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003947,4d830e30-4a35-11ed-b04b-61e292f04158,b4eef440-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003948,4ce101d0-4a35-11ed-b04b-61e292f04158,60a10160-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003949,4cb66f60-4a35-11ed-b04b-61e292f04158,d03c7a40-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003950,4e439f10-4a35-11ed-b04b-61e292f04158,ff4469a0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003951,4d612e50-4a35-11ed-b04b-61e292f04158,0f4cf4f0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003952,4beabaf0-4a35-11ed-b04b-61e292f04158,024e4a10-50e9-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003953,4d4eb7c0-4a35-11ed-b04b-61e292f04158,31f94cb0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003954,4bdd2660-4a35-11ed-b04b-61e292f04158,6585eac0-50e9-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003955,4b3b8f30-4a35-11ed-b04b-61e292f04158,2b04ac10-5805-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003956,4db36d00-4a35-11ed-b04b-61e292f04158,3454e560-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003957,4e303e20-4a35-11ed-b04b-61e292f04158,25884000-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003958,4d2277a0-4a35-11ed-b04b-61e292f04158,9d905450-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003959,4e1ae160-4a35-11ed-b04b-61e292f04158,45ec0750-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003961,4c0dac40-4a35-11ed-b04b-61e292f04158,9a582c60-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003962,4b3af2f0-4a35-11ed-b04b-61e292f04158,367dd620-5805-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003963,4c8d3c80-4a35-11ed-b04b-61e292f04158,461f7690-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003964,4dc1ebf0-4a35-11ed-b04b-61e292f04158,227d2d70-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003965,4b36d440-4a35-11ed-b04b-61e292f04158,3bba2b20-5805-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003966,4c80e070-4a35-11ed-b04b-61e292f04158,5c55cdb0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003967,4b36ad30-4a35-11ed-b04b-61e292f04158,403b1f60-5805-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003968,4bed04e0-4a35-11ed-b04b-61e292f04158,d0dd1fb0-50e8-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003969,4cb38930-4a35-11ed-b04b-61e292f04158,d2fad6f0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003970,4b31a420-4a35-11ed-b04b-61e292f04158,54b40f10-5805-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003971,4c4eace0-4a35-11ed-b04b-61e292f04158,e57b0e70-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003972,4bdf4940-4a35-11ed-b04b-61e292f04158,614b2740-50e9-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003973,4c04d2a0-4a35-11ed-b04b-61e292f04158,a132ef20-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003974,4d28b930-4a35-11ed-b04b-61e292f04158,953ea900-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003975,4bf87690-4a35-11ed-b04b-61e292f04158,0f6f2620-50e8-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003976,4b3107e0-4a35-11ed-b04b-61e292f04158,58a371b0-5805-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003977,4ca02840-4a35-11ed-b04b-61e292f04158,1b36d040-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003978,4de838a0-4a35-11ed-b04b-61e292f04158,c2aa62a0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003979,4e443b50-4a35-11ed-b04b-61e292f04158,fb15db20-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003980,4cd80120-4a35-11ed-b04b-61e292f04158,78b0d370-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003981,4cdedef0-4a35-11ed-b04b-61e292f04158,62b6e910-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003982,4d0e7a70-4a35-11ed-b04b-61e292f04158,c7a493a0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003985,4d0552b0-4a35-11ed-b04b-61e292f04158,f24a3d80-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003986,4bd49ae1-4a35-11ed-b04b-61e292f04158,989757a0-50e9-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003987,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003988,4e359550-4a35-11ed-b04b-61e292f04158,206406e0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003989,4bda8e50-4a35-11ed-b04b-61e292f04158,78b78d60-50e9-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003990,4e3f3240-4a35-11ed-b04b-61e292f04158,0b3a8be1-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003991,4bfce361-4a35-11ed-b04b-61e292f04158,e37ed3d0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003992,4b747980-4a35-11ed-b04b-61e292f04158,d033b960-5553-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003993,4bcb7320-4a35-11ed-b04b-61e292f04158,40ea8580-50ef-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003994,4d13f8b0-4a35-11ed-b04b-61e292f04158,ba4851b0-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003995,4d27f5e0-4a35-11ed-b04b-61e292f04158,954fc000-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003996,4e4db131-4a35-11ed-b04b-61e292f04158,e4d96980-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003997,4d7d8ff0-4a35-11ed-b04b-61e292f04158,cee51280-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30003999,4e61ae60-4a35-11ed-b04b-61e292f04158,c72a8900-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004000,4be7fbd1-4a35-11ed-b04b-61e292f04158,21aa8c70-50e9-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004001,4b2d1040-4a35-11ed-b04b-61e292f04158,3138d6b0-5896-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004002,4d4a23e0-4a35-11ed-b04b-61e292f04158,4cb55300-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004003,4c35a6a0-4a35-11ed-b04b-61e292f04158,28b1a140-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004004,4be563c0-4a35-11ed-b04b-61e292f04158,518a6870-50e9-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004005,4bf6a1d0-4a35-11ed-b04b-61e292f04158,10041320-50e8-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004007,4b2c4cf0-4a35-11ed-b04b-61e292f04158,39294f30-5896-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004008,4b28a370-4a35-11ed-b04b-61e292f04158,40470e60-5896-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004009,4c6912b0-4a35-11ed-b04b-61e292f04158,8faa3700-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004010,4c5897f1-4a35-11ed-b04b-61e292f04158,cf44de60-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004011,4c39c550-4a35-11ed-b04b-61e292f04158,1aa19fb0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004012,4b27b910-4a35-11ed-b04b-61e292f04158,596fca80-5896-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004014,4dca9e80-4a35-11ed-b04b-61e292f04158,11b4e9b0-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004015,4e526c20-4a35-11ed-b04b-61e292f04158,de3260f0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004016,4cda4b10-4a35-11ed-b04b-61e292f04158,76ae25a0-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004017,4b240f90-4a35-11ed-b04b-61e292f04158,5f24d1f0-5896-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004018,4b232530-4a35-11ed-b04b-61e292f04158,63252480-5896-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004019,4c02fde0-4a35-11ed-b04b-61e292f04158,a9b435f0-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004020,4c6dcda0-4a35-11ed-b04b-61e292f04158,8d5634e0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004021,4df18770-4a35-11ed-b04b-61e292f04158,9b5f0750-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004022,4e71db00-4a35-11ed-b04b-61e292f04158,bde0c210-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004023,4e66b770-4a35-11ed-b04b-61e292f04158,c26fc010-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004024,4c003ec0-4a35-11ed-b04b-61e292f04158,c0aa3390-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004025,4d3b2fc0-4a35-11ed-b04b-61e292f04158,6fdd9180-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004045,4d0a82d0-4a35-11ed-b04b-61e292f04158,d2df0700-50e4-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004046,4bf198c0-4a35-11ed-b04b-61e292f04158,8a57fe20-50e8-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004047,4c096680-4a35-11ed-b04b-61e292f04158,9efd4a70-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004078,4b1f54a0-4a35-11ed-b04b-61e292f04158,c01764a0-5896-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004080,4e702d50-4a35-11ed-b04b-61e292f04158,be9481b0-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004081,4bfb0ea0-4a35-11ed-b04b-61e292f04158,f99f8010-50e7-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004083,4b1e9150-4a35-11ed-b04b-61e292f04158,d4947300-5896-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004085,4c4d2640-4a35-11ed-b04b-61e292f04158,ea281bc0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004087,4de9bf41-4a35-11ed-b04b-61e292f04158,b4f50430-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004088,4b1a99b0-4a35-11ed-b04b-61e292f04158,ec37c7a0-5896-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004089,4e51f6f0-4a35-11ed-b04b-61e292f04158,de53a490-50e1-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004090,4dfd4740-4a35-11ed-b04b-61e292f04158,7f6be090-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004091,4c598250-4a35-11ed-b04b-61e292f04158,cc429ae0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,30004096,4c728890-4a35-11ed-b04b-61e292f04158,82015bb0-50e6-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001089,4cd62c60-4a35-11ed-b04b-61e292f04158,7f5fa430-50e5-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001090,4bd8e0a0-4a35-11ed-b04b-61e292f04158,7da32a50-50e9-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001091,4b196130-4a35-11ed-b04b-61e292f04158,aea2d3f0-5899-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001092,4b1653f0-4a35-11ed-b04b-61e292f04158,b36e8cd0-5899-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001093,4b151b70-4a35-11ed-b04b-61e292f04158,b9827d20-5899-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001094,4b120e30-4a35-11ed-b04b-61e292f04158,bf9fbc40-5899-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001095,4df61b50-4a35-11ed-b04b-61e292f04158,857cc3a0-50e2-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001096,4bccf9c0-4a35-11ed-b04b-61e292f04158,2b6635c0-50ee-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001097,4b101260-4a35-11ed-b04b-61e292f04158,c8335290-5899-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001098,4b0d5340-4a35-11ed-b04b-61e292f04158,ce7de340-5899-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001099,4b0b0950-4a35-11ed-b04b-61e292f04158,d3a3f120-5899-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001100,4d9e5e60-4a35-11ed-b04b-61e292f04158,5e354370-50e3-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001101,4b084a30-4a35-11ed-b04b-61e292f04158,4bb20ad0-589a-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001102,4b031a10-4a35-11ed-b04b-61e292f04158,592493e0-589a-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,50001103,4b060040-4a35-11ed-b04b-61e292f04158,53a653e0-589a-11ec-be49-73e9bda34ef3
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,b91_39006449,#N/A,#N/A
+si_lgprime,Bove-china-samples,Bove-china-samples,bove-china-samples,b91_39006450,#N/A,#N/A
+si_lgprime,BGC,BGC,manila-water-large-meters,31022938,4ac15620-4a35-11ed-b04b-61e292f04158,3b8116a0-85a0-11ec-b372-23a85237172f
+si_ncs,ncs_sensors,ncs_sensors,ncs-sensors,ESN 7333 - Door Sensor,d918f2e0-4a0b-11ed-b04b-61e292f04158,cc12fd10-d36b-11eb-be49-73e9bda34ef3
+si_ncs,mex_peoplecounter,mex_peoplecounter,ncs-peoplecounter,ESN 7710,d90da840-4a0b-11ed-b04b-61e292f04158,245fbe60-4e99-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7496 - packetMOISTURE Soil - T3B3 - LRF,c8333d10-4a00-11ed-b04b-61e292f04158,f9844740-0485-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7497 - packetMOISTURE Soil - T3B2 - LRF,c8322ba0-4a00-11ed-b04b-61e292f04158,15b8bcc0-0486-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7498 - packetMOISTURE Soil - T3B3 - LRF,c82e3400-4a00-11ed-b04b-61e292f04158,25655750-0486-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7499 - packetMOISTURE Soil - T3B2 - LRF,c82c3830-4a00-11ed-b04b-61e292f04158,2d031bf0-0486-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7500 - packetMOISTURE Soil - T3B1 - ACF,c82903e0-4a00-11ed-b04b-61e292f04158,31054340-0486-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7501 - packetMOISTURE Soil - T3B2 - ACF,c826b9f0-4a00-11ed-b04b-61e292f04158,35a6b7d0-0486-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7502 - packetMOISTURE Soil - T3B3 - ACF,c824e530-4a00-11ed-b04b-61e292f04158,43106740-0486-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7503 - packetMOISTURE Soil - Extra Unit - ACF,c821ff00-4a00-11ed-b04b-61e292f04158,481ad6d0-0486-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7965 - packetMOISTURE Soil - T3B1 - LRF,c7cb5380-4a00-11ed-b04b-61e292f04158,946f4aa0-cb70-11ec-80a9-83a6055f2008
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 8552 - packetMOISTURE Soil - Extra Unit - ACF,c7d93630-4a00-11ed-b04b-61e292f04158,ad9a63c0-c76a-11ec-80a9-83a6055f2008
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 8553 - packetMOISTURE Soil - T3B2 - ACF,c7e5e060-4a00-11ed-b04b-61e292f04158,4f00a440-c761-11ec-80a9-83a6055f2008
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 8554 - packetMOISTURE Soil - Extra Unit - LRF,c7fe7170-4a00-11ed-b04b-61e292f04158,1c040a10-c6c0-11ec-80a9-83a6055f2008
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 8555 - packetMOISTURE Soil - T3B1 - LRF,c80157a0-4a00-11ed-b04b-61e292f04158,0ebfe400-c6c0-11ec-80a9-83a6055f2008
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 8556 - packetMOISTURE Soil - T3B3 - ACF,c7dfecf0-4a00-11ed-b04b-61e292f04158,91df5310-c761-11ec-80a9-83a6055f2008
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 8557 - packetMOISTURE Soil - T3B1 - ACF,c7df9ed0-4a00-11ed-b04b-61e292f04158,cb64d1a0-c761-11ec-80a9-83a6055f2008
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7721 - packetRAINFALL - Extra Unit - LRF,c818b030-4a00-11ed-b04b-61e292f04158,c450e300-1513-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7722 - packetRAINFALL - T3B3 - LRF,c816b460-4a00-11ed-b04b-61e292f04158,c9c18e70-1513-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7723 - packetRAINFALL - T3B1 - LRF,c8138010-4a00-11ed-b04b-61e292f04158,cf0b7800-1513-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7724 - packetRAINFALL - T3B3 - ACF,c8118440-4a00-11ed-b04b-61e292f04158,d3c7eea0-1513-11ec-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7725,#N/A,#N/A
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7726,#N/A,#N/A
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7727,#N/A,#N/A
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 8344 - packetRAINFALL - T3B3 - LRF,c7f8f330-4a00-11ed-b04b-61e292f04158,75d2d830-c6c2-11ec-80a9-83a6055f2008
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 8345 - packetRAINFALL - T3B1 - ACF,c806aed0-4a00-11ed-b04b-61e292f04158,9ec8cb30-b959-11ec-80a9-83a6055f2008
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 8346 - packetRAINFALL - T3B2 - LRF,c7fc9cb0-4a00-11ed-b04b-61e292f04158,28ea0a90-c6c0-11ec-80a9-83a6055f2008
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 8347 - packetRAINFALL- T3B2 - ACF,c80464e0-4a00-11ed-b04b-61e292f04158,d8f051f0-b960-11ec-80a9-83a6055f2008
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7481 - packetTEMP+HUM - T3B1 - LRF,c836bf80-4a00-11ed-b04b-61e292f04158,24d49400-ff2b-11eb-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7482 - packetTEMP+HUM - T3B2 - LRF,c84146d0-4a00-11ed-b04b-61e292f04158,15ce8f20-ff2a-11eb-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7483 - packetTEMP+HUM - T3B3 - LRF,c8469e00-4a00-11ed-b04b-61e292f04158,80011a30-ff29-11eb-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7484 - packetTEMP+HUM - Extra Unit - LRF,c8478860-4a00-11ed-b04b-61e292f04158,7f485180-ff29-11eb-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7485 - packetTEMP+HUM - Extra Unit - ACF,c83d2820-4a00-11ed-b04b-61e292f04158,453a9ab0-ff2a-11eb-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7486 - packetTEMP+HUM - T3B2 - ACF,c8425840-4a00-11ed-b04b-61e292f04158,cca2b790-ff29-11eb-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7487 - packetTEMP+HUM - T3B3 - ACF,c8381f10-4a00-11ed-b04b-61e292f04158,233e8ab0-ff2b-11eb-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 7488 - packetTEMP+HUM - T3B1 - ACF,c83c8be0-4a00-11ed-b04b-61e292f04158,c7c88a50-ff2a-11eb-be49-73e9bda34ef3
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 8509 - packetTEMP+HUM - T3B1 - ACF,c7d7fdb0-4a00-11ed-b04b-61e292f04158,53455c40-cb66-11ec-80a9-83a6055f2008
+si_varacco,si-varacco-devices,si-varacco-devices,varacco-temphum,ESN 8510 - packetTEMP+HUM - T3B3 - ACF,c7cb0560-4a00-11ed-b04b-61e292f04158,89d40900-cb66-11ec-80a9-83a6055f2008
+si_ramcar,motolite-power-meter,motolite-power-meter,motolite-power-meter,ESN 8444,eff8eef0-49f4-11ed-b04b-61e292f04158,27860350-ec47-11ec-80a9-83a6055f2008
+si_ramcar,motolite-power-meter,motolite-power-meter,motolite-power-meter,ESN 8446,e7bc0420-49f4-11ed-b04b-61e292f04158,2bd56040-ec47-11ec-80a9-83a6055f2008
+si_ramcar,motolite-power-meter,motolite-power-meter,motolite-power-meter,ESN 8448,d0540ad0-49f4-11ed-b04b-61e292f04158,3b9dc030-ec47-11ec-80a9-83a6055f2008
+pienergy_account,pulse-test-devices,pulse-test-devices,pulse-test-devices,ESN 7640 - Meter #906 Tivoli EE Room Manda Side,8be2b340-49e2-11ed-b04b-61e292f04158,cefe9620-7f13-11ec-9475-a9ee85cde94b
+pienergy_account,pulse-test-devices,pulse-test-devices,pulse-test-devices,ESN 7682 - Meter #1204 Tivoli EE Room Manda Side,8bec2920-49e2-11ed-b04b-61e292f04158,80429c10-7cd5-11ec-9475-a9ee85cde94b
+pienergy_account,pulse-test-devices,pulse-test-devices,pulse-test-devices,ESN 7683 - Meter #703 Tivoli EE Room Manda Side,8beb17b0-49e2-11ed-b04b-61e292f04158,901eab10-7cd5-11ec-9475-a9ee85cde94b
+pienergy_account,pi_peoplecounter1,pi_peoplecounter1,pi-peoplecounter1,ESN 4172,8c387460-49e2-11ed-b04b-61e292f04158,91837130-01cf-11ea-bb13-556bd8850d1d
+pienergy_account,pi_peoplecounter1,pi_peoplecounter1,pi-peoplecounter1,ESN 4167,8c339260-49e2-11ed-b04b-61e292f04158,946cd580-01cf-11ea-bb13-556bd8850d1d
+pienergy_account,pi_peoplecounter1,pi_peoplecounter1,pi-peoplecounter1,ESN 4211,8c334440-49e2-11ed-b04b-61e292f04158,2007d130-01d0-11ea-bb13-556bd8850d1d
+pienergy_account,pi_peoplecounter1,pi_peoplecounter1,pi-peoplecounter1,ESN 4122,8c29ce60-49e2-11ed-b04b-61e292f04158,f1fc1f50-01d7-11ea-bb13-556bd8850d1d
+pienergy_account,pi_peoplecounter1,pi_peoplecounter1,pi-peoplecounter1,ESN 4170,8c3a4920-49e2-11ed-b04b-61e292f04158,890efba0-01cf-11ea-bb13-556bd8850d1d
+pienergy_account,pi_peoplecounter1,pi_peoplecounter1,pi-peoplecounter1,ESN 4166,8c3e8ee0-49e2-11ed-b04b-61e292f04158,b2f8c500-01ce-11ea-bb13-556bd8850d1d
+pienergy_account,pi_opticalpulse,pi_opticalpulse,,ESN 5709,8bf46680-49e2-11ed-b04b-61e292f04158,dc8d0240-fd6e-11ea-989f-93eb583aac32
+pienergy_account,pi_opticalpulse,pi_opticalpulse,,ESN 5710,8c06b600-49e2-11ed-b04b-61e292f04158,82d419f0-0783-11ea-bee7-4f1046ce4ca3
+pienergy_account,pi_opticalpulse,pi_opticalpulse,,ESN 5708,8c0c3440-49e2-11ed-b04b-61e292f04158,49919c00-077c-11ea-bee7-4f1046ce4ca3
+pienergy_account,pi_opticalpulse,pi_opticalpulse,,ESN 5712,8c0be620-49e2-11ed-b04b-61e292f04158,05118750-077e-11ea-bee7-4f1046ce4ca3
+pienergy_account,pi_opticalpulse,pi_opticalpulse,,ESN 5711,8c11b280-49e2-11ed-b04b-61e292f04158,a30e1520-0762-11ea-bee7-4f1046ce4ca3
+pienergy_account,pi_opticalpulse,pi_opticalpulse,,ESN 5733,8c0619c0-49e2-11ed-b04b-61e292f04158,0954aca0-07e9-11ea-bee7-4f1046ce4ca3
+pienergy_account,pi-energy-modbus,pi-energy-modbus,pi-energy-modbus,ESN 8675 - 4F Ramon Magsaysay Bldg.,a93efc60-49e1-11ed-b04b-61e292f04158,#N/A
+si_clix,converge-temphum,converge-temphum,converge-temphum,ESN 8021 Converge Manggahan Branch - Temp+Hum,ed0a4870-490d-11ed-b04b-61e292f04158,710ed460-b804-11ec-80a9-83a6055f2008
+si_clix,converge-smoke,converge-smoke,converge-smoke,ESN 8386 Converge Manggahan Branch - Smoke Sensor,ecfdec60-490d-11ed-b04b-61e292f04158,a6315a80-ba13-11ec-80a9-83a6055f2008
+si_clix,converge-smoke,converge-smoke,converge-smoke,ESN 8665 Converge Manggahan Branch - Smoke Sensor,eceed130-490d-11ed-b04b-61e292f04158,7e335b70-d195-11ec-80a9-83a6055f2008
+si_clix,converge-powermeter,converge-powermeter,converge-powermeter,ESN 8434 Converge Manggahan Branch - Power Meter,eceed131-490d-11ed-b04b-61e292f04158,cb085da0-ba17-11ec-80a9-83a6055f2008
+si_clix,converge-door,converge-door,converge-door,ESN 8378 Converge Manggahan Branch - Door Sensor,ed0120b0-490d-11ed-b04b-61e292f04158,89597910-ba13-11ec-80a9-83a6055f2008
+si_clix,clixlogic-water-leak,clixlogic-water-leak,clixlogic-water-leak,ESN 6831- BSC Meralco Compound- 3F Data Center Rack 8-Packet Leak,1d7b2780-49d7-11ed-b04b-61e292f04158,ced3f590-a363-11ec-b372-23a85237172f
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 6794 - RBC Corporate Office- 12F EE Room-Temp+Hum,af2078d0-4922-11ed-b04b-61e292f04158,912dfcd0-8afa-11ec-b372-23a85237172f
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7343 - RBC Corporate Office-12F IT Server room-Temp+Hum,8187bdc1-490e-11ed-b04b-61e292f04158,d8c81060-a8c0-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7802 - RBC Corporate Office- 12F Tech Innovation Lab-Temp+Hum,c37c4390-4922-11ed-b04b-61e292f04158,2f61de10-9ad4-11ec-b372-23a85237172f
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8910 - GF Server Room - Technohub D,1ea3d5d0-4923-11ed-b04b-61e292f04158,b46f6990-2f46-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7908 - GF Server Room - Technohub D,0089cce0-4922-11ed-b04b-61e292f04158,8f83fa70-2f4a-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7805,81ced8e0-490e-11ed-b04b-61e292f04158,470a03d0-2266-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8911 - GF Server Room - Technohub D,43fa0d50-4922-11ed-b04b-61e292f04158,cfa3dec0-2f47-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7851 - GF Server Room - Technohub D,06e85030-4921-11ed-b04b-61e292f04158,9dd71c50-2f46-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7846 - GF Server Room - Technohub D,73e8dd70-4922-11ed-b04b-61e292f04158,9c48de60-2f4a-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7809,81dcbb90-490e-11ed-b04b-61e292f04158,7ea51ee0-2263-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7810,81cfea50-490e-11ed-b04b-61e292f04158,af929a50-2263-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7811 - Clix POC,ec2f1390-4921-11ed-b04b-61e292f04158,929f9940-b0cd-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9242 - 12F UPS Room - Alabang 3,2a9a7f30-4921-11ed-b04b-61e292f04158,529f5e50-1d62-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8919 - 2F UPS Room - Shaw,e1832490-4921-11ed-b04b-61e292f04158,8bbc7090-29b7-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7841,81ca9320-490e-11ed-b04b-61e292f04158,10ff1ed0-435c-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8912 - 8F IDF Room - MOA,9e0a1511-4922-11ed-b04b-61e292f04158,bedda5c0-2a84-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8887 - 9F UPS Room - MOA,fbed6160-4921-11ed-b04b-61e292f04158,ea27d7a0-29c1-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8016 - 2F IDF Room 2 - Technohub G,08ec5d90-4921-11ed-b04b-61e292f04158,bacbac10-064a-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7873 - 4F UPS Room - Technohub D,5bf545f0-4922-11ed-b04b-61e292f04158,bd75b020-2f4c-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8015 - GF UPS Room - Technohub G,bb94f2d0-4922-11ed-b04b-61e292f04158,08b97bb0-064f-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8896 - 2F Hub Room 3 - Shaw,38a5f770-4922-11ed-b04b-61e292f04158,b4271e90-29b7-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7848 - 3F Hub Room 2 - Technohub M,81972710-490e-11ed-b04b-61e292f04158,65a59630-9f55-11ec-b372-23a85237172f
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7908 - 3F Hub Room 2 - Technohub M,751e6f40-497a-11ed-b04b-61e292f04158,cc97a640-d70d-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8027 - GF Hub Room - Technohub M,29f779b0-4927-11ed-b04b-61e292f04158,1c4ea9d0-0649-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 6743 - 4F Hub Room - Technohub D,ecee4f70-4922-11ed-b04b-61e292f04158,#N/A
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7852,81c0a810-490e-11ed-b04b-61e292f04158,592502a0-435d-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8918 - 2F Hub Room 2 - Shaw,e41b0d80-4921-11ed-b04b-61e292f04158,99927660-29b7-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7856,81bb02c0-490e-11ed-b04b-61e292f04158,848d6040-435d-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7901 - GF IDF Room 1 - Technohub G,71b1adf0-4929-11ed-b04b-61e292f04158,24445d00-064a-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9241 - 10F IDF Room - Alabang 3,36639e00-4921-11ed-b04b-61e292f04158,370baef0-1d5d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8022 - 3F Hub Room 1 - Technohub M,76e0b620-4921-11ed-b04b-61e292f04158,74a4ca90-065f-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9182 - 2F UPS Room - Nuvali,c98ef0d0-4921-11ed-b04b-61e292f04158,5e56b930-28ef-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7972 - 2F IDF Room 1 - Technohub G,75134bb0-497a-11ed-b04b-61e292f04158,e50fadf0-064a-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8913 - 4F UPS Room - Technohub L,71c7c7a0-4921-11ed-b04b-61e292f04158,2cf4d0c0-2f34-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9240 - 8F UPS Room - Alabang 3,c4c7d660-4922-11ed-b04b-61e292f04158,2c7061c0-1d5d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8914 - 4F UPS Room - Nuvali,18a21fe0-4921-11ed-b04b-61e292f04158,5ace3940-28f0-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9250 - 6F IDF Room - Alabang 2,08306b20-4922-11ed-b04b-61e292f04158,4288c1e0-1d63-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9237 - 11F IDF Room - Alabang 3,ca0563e0-4922-11ed-b04b-61e292f04158,586d5e40-1d5d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9239 - 12F IDF Room - Alabang 3,62e77dc0-4921-11ed-b04b-61e292f04158,17a24d30-1d5d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7869 - 4F Hub Room - Technohub L,8181a340-490e-11ed-b04b-61e292f04158,e40d6de0-dc81-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8013 - 3F UPS Room - Technohub M,f8069f60-4923-11ed-b04b-61e292f04158,09b71260-064b-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9184 - 2F IDF Room - Nuvali,334ffff0-4922-11ed-b04b-61e292f04158,78909730-28ef-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8920 - 2F UPS Room - Technohub D,def5cd80-4922-11ed-b04b-61e292f04158,79a77ff0-2f46-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8003 - GF UPS Room - Technohub M,711e4130-4921-11ed-b04b-61e292f04158,042280b0-064a-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9219 - 9F Server Room - Alabang 3,105c4980-4923-11ed-b04b-61e292f04158,fe4bfbf0-1d5d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8886 - 8F UPS Room - MOA,3f22e2c0-4922-11ed-b04b-61e292f04158,8b4e9280-2a86-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9246 - 8F Server Room - Alabang 2,65579360-4921-11ed-b04b-61e292f04158,1aab9590-1d5d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7862 - 2F Hub Room - Technohub L,21a6fc50-4926-11ed-b04b-61e292f04158,2060dd50-2f33-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7860 - 3F UPS Room - Technohub D,9c402a80-4922-11ed-b04b-61e292f04158,9f8c6d70-2f46-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9238 - 8F IDF Room - Alabang 3,142b2140-4922-11ed-b04b-61e292f04158,1a2638f0-1d5d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8901 - 2F Server Room - Shaw,1639b5f0-4922-11ed-b04b-61e292f04158,93eadc70-29b7-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8024 - 3F IDF Room 1 - Technohub G,30cef300-4925-11ed-b04b-61e292f04158,d353f8c0-0666-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7899 - 2F UPS Room - Technohub L,fbe34f40-4921-11ed-b04b-61e292f04158,3fcc13d0-2f33-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7881 - 3F Hub Room - Technohub D,0eb96460-4922-11ed-b04b-61e292f04158,471e7cf0-2f46-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7859 - 4F IDF Room 1 - Technohub G,34ff7a20-4921-11ed-b04b-61e292f04158,#N/A
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7870 - 3F Server Room - Technohub L,9d7a0a10-4922-11ed-b04b-61e292f04158,2b829890-2f33-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9243 - 7F UPS Room - Alabang 2,46259fe0-4922-11ed-b04b-61e292f04158,8e1a71b0-1d6a-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8025 - GF IDF Room 2 - Technohub G,34e601e0-4925-11ed-b04b-61e292f04158,643538b0-0660-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8921 - 9F Server Room - MOA,14634840-4922-11ed-b04b-61e292f04158,2a6c2c80-29c2-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8915 - 4F IDF Room - Nuvali,cbfac0b0-4921-11ed-b04b-61e292f04158,8b4c02f0-28f0-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9245 - 6F UPS Room - Alabang 2,75101760-497a-11ed-b04b-61e292f04158,#N/A
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7892 - 4F IDF Room 2 - Technohub G,818db130-490e-11ed-b04b-61e292f04158,c3128cd0-a5b1-11ec-b372-23a85237172f
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7953 - GF Battery Room - Technohub M,5c183310-4929-11ed-b04b-61e292f04158,c3895510-0649-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8916 - 2F Hub Room 1 - Shaw,90e52c40-4921-11ed-b04b-61e292f04158,9d6d7130-29b8-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9249 - 9F IDF Room - Alabang 2,0ee97510-4922-11ed-b04b-61e292f04158,96e16320-1d61-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7844 - 2F Hub Room - Technohub D,125ec5b0-4922-11ed-b04b-61e292f04158,37c35dc0-2f46-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9227 - 10F UPS Room - Alabang 3,c46eaf50-4921-11ed-b04b-61e292f04158,1db2a920-1d5f-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9181 - 3F UPS/Server Room - Nuvali,d7ef0e30-4921-11ed-b04b-61e292f04158,9055d640-28f0-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8017 - 3F IDF Room 2 - Technohub G,130449f0-4921-11ed-b04b-61e292f04158,1d2d3810-064b-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9248 - 9F UPS Room - Alabang 2,a3d88d61-4921-11ed-b04b-61e292f04158,c488f070-1d63-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7902,81b388b0-490e-11ed-b04b-61e292f04158,b32a8310-435d-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9247 - 7F IDF Room - Alabang 2,fce78360-4922-11ed-b04b-61e292f04158,4f1f3510-1d5e-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7850 - GF Battery Room - Technohub G,a42bf5d0-4927-11ed-b04b-61e292f04158,09a9a4e0-064b-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7905,81b13ec0-490e-11ed-b04b-61e292f04158,0d598480-435e-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8020 - 8F UPS Room - Alabang 2,ff38ed70-4922-11ed-b04b-61e292f04158,2a8fa090-1d6d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7907,81ad2010-490e-11ed-b04b-61e292f04158,15e9e680-435e-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8018 - 3F Hub Room 2 - Technohub M,fe996e90-4921-11ed-b04b-61e292f04158,e00c5660-0662-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7909,81a753b0-490e-11ed-b04b-61e292f04158,1df9a6d0-435e-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7910,81a77ac0-490e-11ed-b04b-61e292f04158,23728fa0-435e-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7911,81a16040-490e-11ed-b04b-61e292f04158,27639ff0-435e-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7912,81a0c400-490e-11ed-b04b-61e292f04158,2aed3be0-435e-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7913,819c7e40-490e-11ed-b04b-61e292f04158,2e3b5570-435e-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7914,819ad090-490e-11ed-b04b-61e292f04158,318c7c40-435e-11ec-be49-73e9bda34ef3
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7952 - RBC Node Basement 1- Rack 1-Temp+Hum,a4662760-4921-11ed-b04b-61e292f04158,8452d1c0-8afa-11ec-b372-23a85237172f
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7954 - BSC Meralco Compound- 3F Data Center-Temp+Hum,1d90d260-49d7-11ed-b04b-61e292f04158,66940830-8af9-11ec-b372-23a85237172f
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8019 - RBC Corporate Office- 12F IT Server room-Temp+Hum,b1fda820-4922-11ed-b04b-61e292f04158,58d66f90-a367-11ec-b372-23a85237172f
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8020 - RBC Node Basement 1- ASR Rack-Temp+Hum,1d792bb0-49d7-11ed-b04b-61e292f04158,f1809410-a366-11ec-b372-23a85237172f
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8014 - 4F IDF Room 2 - Technohub G,b86a3530-4921-11ed-b04b-61e292f04158,683e66e0-064a-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8026 - GF UPS Room - Technohub G,73b79440-4922-11ed-b04b-61e292f04158,df0bb8a0-0649-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8917 - 4F HUB Room - Technohub L,c7b188d0-4922-11ed-b04b-61e292f04158,13cea220-2f33-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8024 - 3F IDF Room 1 - Technohub G,30cef300-4925-11ed-b04b-61e292f04158,d353f8c0-0666-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8025 - GF IDF Room 2 - Technohub G,34e601e0-4925-11ed-b04b-61e292f04158,643538b0-0660-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8022 - 3F HUB Room 1 - Technohub M,76e0b620-4921-11ed-b04b-61e292f04158,74a4ca90-065f-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8018 - 3F HUB Room 2 - Technohub M,fe996e90-4921-11ed-b04b-61e292f04158,e00c5660-0662-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7968 - GF Server Room - Damosa,92b059e0-4922-11ed-b04b-61e292f04158,2f7a1430-e737-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7969 - 2F Hub Room - Damosa,227ac3e2-4922-11ed-b04b-61e292f04158,e3a59ff0-e738-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7970 - GF UPS Room - Damosa,9f9b9840-4927-11ed-b04b-61e292f04158,d70b6e20-e73b-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8536 - 2F UPS Room - Mactan,308ed990-4921-11ed-b04b-61e292f04158,62853f80-e737-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8537 - 3F Server Room - Mactan,ff5eec00-4922-11ed-b04b-61e292f04158,cea85a80-e737-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8686 - 3F UPS Room - Mactan,16b87850-4921-11ed-b04b-61e292f04158,7e956420-e737-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8687 - 2F Server Room - Mactan,661170b0-4925-11ed-b04b-61e292f04158,19342cb0-e737-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7535 - 4F UPS Room - J Center,0f6534c0-4922-11ed-b04b-61e292f04158,58207960-e73c-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 8002 - 2F UPS Room - J Center,f5437d30-4922-11ed-b04b-61e292f04158,7aa8d740-00cb-11ed-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 7854 - 3F IDF Room - Iloilo,0a3e8010-4921-11ed-b04b-61e292f04158,95345820-f8fe-11ec-80a9-83a6055f2008
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9220 - 3F Production Room - Technohub D,12c08a30-4921-11ed-b04b-61e292f04158,366873c0-121d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9221 - 3F Production Room - Technohub D,f04e9f30-4927-11ed-b04b-61e292f04158,0523d470-1219-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9222 - 3F Production Room - Technohub D,408d1690-4921-11ed-b04b-61e292f04158,56d87010-121d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9223 - 3F Production Room - Technohub D,7fb35140-4921-11ed-b04b-61e292f04158,5d0fedf0-121d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9224 - 3F Production Room - Technohub D,d1443510-4921-11ed-b04b-61e292f04158,33c1e1a0-1219-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9225 - 3F Production Room - Technohub D,9ecf5650-4921-11ed-b04b-61e292f04158,7bb54e50-121b-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9226 - 3F Production Room - Technohub D,4ec19aa0-4922-11ed-b04b-61e292f04158,a09f8b50-121f-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9228 - 3F Production Room - Technohub D,f229af80-4921-11ed-b04b-61e292f04158,7d0300d0-1217-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9229 - 3F Production Room - Technohub D,78c426b0-4922-11ed-b04b-61e292f04158,d957b9b0-121d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9230 - 3F Production Room - Technohub D,f0fdd9b0-4921-11ed-b04b-61e292f04158,d05b2860-121d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9231 - 3F Production Room - Technohub D,23202ed0-4926-11ed-b04b-61e292f04158,71450590-1217-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9232 - 3F Production Room - Technohub D,70d21d00-4921-11ed-b04b-61e292f04158,cb459540-121d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9233 - 3F Production Room - Technohub D,20844b10-4922-11ed-b04b-61e292f04158,fcb64a70-121d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9234 - 3F Production Room - Technohub D,11804c90-4922-11ed-b04b-61e292f04158,fc2be4c0-121d-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9235 - 3F Production Room - Technohub D,272475d0-4922-11ed-b04b-61e292f04158,2a72aa30-121e-11ed-b96a-419673351426
+si_clix,clix-temp-hum,clix-temp-hum,clix-temp-hum,ESN 9236 - 3F Production Room - Technohub D,ca6c3170-4921-11ed-b04b-61e292f04158,586a0c90-121d-11ed-b96a-419673351426
+si_clix,clix-peoplecounter,clix-peoplecounter,clix-peoplecounter,ESN 7732 NOC Customer Area - RBC-People Counter,#N/A,#N/A
+si_clix,clix-peoplecounter,clix-peoplecounter,clix-peoplecounter,ESN 8351 RBC Corporate Office-Reception Main Door-People Counter,18b8aa90-4920-11ed-b04b-61e292f04158,fdfd5a30-a360-11ec-b372-23a85237172f
+si_clix,clix-peoplecounter,clix-peoplecounter,clix-peoplecounter,ESN 7733 RBC Corporate Office-Casher Main Door-People Counter,32aad130-4920-11ed-b04b-61e292f04158,0766b710-a361-11ec-b372-23a85237172f
+si_clix,clix-peoplecounter,clix-peoplecounter,clix-peoplecounter,ESN 8352- BSC Meralco Compound- NOC Customer Area-People Counter,1d81b730-49d7-11ed-b04b-61e292f04158,d675c3c0-a361-11ec-b372-23a85237172f
+si_clix,clix-packetair,clix-packetair,clix-packetair,ESN 7814,81d76460-490e-11ed-b04b-61e292f04158,e7120520-2262-11ec-be49-73e9bda34ef3
+si_clix,clix-packetair,clix-packetair,clix-packetair,ESN 7957 - RBC Corporate Office-12F Reception Area-PacketAir,c64e1db0-4921-11ed-b04b-61e292f04158,d3977930-954e-11ec-b372-23a85237172f
+si_clix,clix-packetair,clix-packetair,clix-packetair,ESN 7958 - RBC Corporate Office- Conference Room-PacketAir,7d1303e0-4921-11ed-b04b-61e292f04158,fd10cff0-8af9-11ec-b372-23a85237172f
+si_clix,clix-packetair,clix-packetair,clix-packetair,ESN 7959 - BSC Meralco Compound- NOC Customer Area-PacketAir,abac3240-4925-11ed-b04b-61e292f04158,da754ba0-8afa-11ec-b372-23a85237172f
+si_clix,clix-packetair,clix-packetair,clix-packetair,ESN 7960 - BSC Meralco Compound- Logistic & Facilities-PacketAir,1d87d1b0-49d7-11ed-b04b-61e292f04158,8f9bb2a0-9ad5-11ec-b372-23a85237172f
+si_clix,clix-packetair,clix-packetair,clix-packetair,ESN 7978 - RBC Corporate Office-SCLM-GPON Area-PacketAir,965f9120-4920-11ed-b04b-61e292f04158,04a6d3c0-a361-11ec-b372-23a85237172f
+si_clix,clix-packetair,clix-packetair,clix-packetair,ESN 7815 - Clix POC,#N/A,#N/A
+si_clix,clix-modbus,clix-modbus,clix-modbus,ESN 6800 RBC Corporate Office- 12F Reception Area-Door Sensor,2d00e5f0-4923-11ed-b04b-61e292f04158,e0d48180-8b15-11ec-b372-23a85237172f
+si_clix,clix-modbus,clix-modbus,clix-modbus,ESN 6799 RBC Corporate Office- 12F Cashier Area-Door Sensor,8191a8d0-490e-11ed-b04b-61e292f04158,0b82a7b0-a400-11ec-b372-23a85237172f
+si_clix,clix-modbus,clix-modbus,clix-modbus,ESN 6384 RBC Corporate Office-Finance Main Door-Door Sensor,1d822c62-49d7-11ed-b04b-61e292f04158,09afe3c0-a361-11ec-b372-23a85237172f
+si_clix,clix-modbus,clix-modbus,clix-modbus,ESN 7507- BSC Meralco Compound- 3F Data Center-Door Sensor,1d89cd81-49d7-11ed-b04b-61e292f04158,2c8d7a50-8b1b-11ec-b372-23a85237172f
+si_clix,clix-doorsensor,clix-doorsensor,clix-doorsensor,ESN 6800 RBC Corporate Office- 12F Reception Area-Door Sensor,2d00e5f0-4923-11ed-b04b-61e292f04158,e0d48180-8b15-11ec-b372-23a85237172f
+si_clix,clix-doorsensor,clix-doorsensor,clix-doorsensor,ESN 6799 RBC Corporate Office- 12F Cashier Area-Door Sensor,8191a8d0-490e-11ed-b04b-61e292f04158,0b82a7b0-a400-11ec-b372-23a85237172f
+si_clix,clix-doorsensor,clix-doorsensor,clix-doorsensor,ESN 6384 RBC Corporate Office-Finance Main Door-Door Sensor,1d822c62-49d7-11ed-b04b-61e292f04158,09afe3c0-a361-11ec-b372-23a85237172f
+si_clix,clix-doorsensor,clix-doorsensor,clix-doorsensor,ESN 7507- BSC Meralco Compound- 3F Data Center-Door Sensor,1d89cd81-49d7-11ed-b04b-61e292f04158,2c8d7a50-8b1b-11ec-b372-23a85237172f
+si_clix,clix-current-clamp,clix-current-clamp,clix-current-clamp,ESN 7760 RBC Corporate Office- Quadrant 1 Stock room-Current Clamp,1d8dec30-49d7-11ed-b04b-61e292f04158,653e2d70-8aff-11ec-b372-23a85237172f
+si_clix,clix-current-clamp,clix-current-clamp,clix-current-clamp,ESN 7761 RBC Corporate Office- Quadrant 1 Stock room-Current Clamp,ce6b19e0-4920-11ed-b04b-61e292f04158,369be510-8b00-11ec-b372-23a85237172f
+si_clix,clix-current-clamp,clix-current-clamp,clix-current-clamp,ESN 7762 RBC Corporate Office- Quadrant 1 Stock room-Current Clamp,ef4b3290-491f-11ed-b04b-61e292f04158,2edc7230-8b01-11ec-b372-23a85237172f
+si_geos,proximity test,proximity test,geos-proximity4m,ESN 6847,af06b380-4857-11ed-b04b-61e292f04158,adf1dc70-ad50-11eb-976c-37d9e87807da
+si_geos,geos-sublevel,geos-sublevel,noah-sublevel,ESN 7986,da8a44d0-4858-11ed-b04b-61e292f04158,7998c2a0-a67d-11ec-80a9-83a6055f2008
+si_geos,geos-proximity4m,geos-proximity4m,geos-proximity4m,ESN 6847,af06b380-4857-11ed-b04b-61e292f04158,adf1dc70-ad50-11eb-976c-37d9e87807da
+si_cbre,cbre-temphum,cbre-temphum,cbre-temphum,ESN 5907 - SH CAYETANO Select GF - Massage Chair Area,bcdfedd1-460b-11ed-b04b-61e292f04158,9ddcc240-7cb8-11ec-9475-a9ee85cde94b
+si_cbre,cbre-temphum,cbre-temphum,cbre-temphum,ESN 6792 - SH CAYETANO Select 2F - Window Area,bcdc1d40-460b-11ed-b04b-61e292f04158,afb56490-7cb8-11ec-9475-a9ee85cde94b
+si_cbre,cbre-temphum,cbre-temphum,cbre-temphum,ESN 6795 - SH CAYETANO Select GF - Restroom Entrance,bcd629d0-460b-11ed-b04b-61e292f04158,dcc5e200-7cba-11ec-9475-a9ee85cde94b
+si_cbre,cbre-temphum,cbre-temphum,cbre-temphum,ESN 7930 - SH CAYETANO Select GF - Cashier Area,bcd78960-460b-11ed-b04b-61e292f04158,d9a700b0-7cb8-11ec-9475-a9ee85cde94b
+si_cbre,cbre-temphum,cbre-temphum,cbre-temphum,ESN 7955 - SH CAYETANO Select GF - Near 2F Stairway,bcdba810-460b-11ed-b04b-61e292f04158,d3f4b860-7cb8-11ec-9475-a9ee85cde94b
+si_cbre,cbre-temp-probe,cbre-temp-probe,cbre-temp-probe,ESN 7363 - SH CAYETANO (Chiller 1),bce0b120-460b-11ed-b04b-61e292f04158,ef6f9eb0-7cb4-11ec-9475-a9ee85cde94b
+si_cbre,cbre-temp-probe,cbre-temp-probe,cbre-temp-probe,ESN 7825 - SH CAYETANO (Chiller 2),bce59321-460b-11ed-b04b-61e292f04158,98a0fbc0-7cb3-11ec-9475-a9ee85cde94b
+si_cbre,cbre-temp-probe,cbre-temp-probe,cbre-temp-probe,ESN 7828 - SH CAYETANO (Chiller 3),bce4a8c0-460b-11ed-b04b-61e292f04158,0e6b3ff0-7cb4-11ec-9475-a9ee85cde94b
+si_cbre,cbre-power-meter,cbre-power-meter,cbre-power-meter,ESN 8671 - SH C5 JULIA VARGAS COSS EE ROOM L3 1-1,bc4841b0-460b-11ed-b04b-61e292f04158,8fa8c8e0-16d2-11ed-b96a-419673351426
+si_cbre,cbre-power-meter,cbre-power-meter,cbre-power-meter,ESN 8694 - SH C5 JULIA VARGAS COSS EE ROOM L3 1-2,bc481aa0-460b-11ed-b04b-61e292f04158,21ac8ba0-16d3-11ed-b96a-419673351426
+si_cbre,cbre-power-meter,cbre-power-meter,cbre-power-meter,ESN 8438 - SH C5 HERITAGE TAGUIG COSS L3,bc67feb0-460b-11ed-b04b-61e292f04158,8761d410-f535-11ec-80a9-83a6055f2008
+si_cbre,cbre-power-meter,cbre-power-meter,cbre-power-meter,ESN 8421 - SH CAYETANO BLVD TAGUIG COSS EE ROOM L3,bcb47100-460b-11ed-b04b-61e292f04158,cea7fc80-b0a9-11ec-80a9-83a6055f2008
+si_cbre,cbre-power-meter,cbre-power-meter,cbre-power-meter,ESN 8693 - SH CAYETANO BLVD TAGUIG COSS SELECT L3,bc4e3521-460b-11ed-b04b-61e292f04158,034b4180-1456-11ed-b96a-419673351426
+si_cbre,cbre-power-meter,cbre-power-meter,cbre-power-meter,ESN 8427 - SH ORTIGAS EXT BGY ISIDRO COSS EE ROOM L3,bc957750-460b-11ed-b04b-61e292f04158,8670cf70-d59b-11ec-80a9-83a6055f2008
+si_cbre,cbre-power-meter,cbre-power-meter,cbre-power-meter,ESN 8459 - SH ORTIGAS EXT BGY ISIDRO COSS SELECT L3,bc909550-460b-11ed-b04b-61e292f04158,961190a0-db21-11ec-80a9-83a6055f2008
+si_cbre,cbre-power-meter,cbre-power-meter,cbre-power-meter,ESN 8447 - SH SOUTH SUPER MAGALLANES COSS EE ROOM 1 L3,bc5a6a20-460b-11ed-b04b-61e292f04158,4e21b100-f537-11ec-80a9-83a6055f2008
+si_cbre,cbre-power-meter,cbre-power-meter,cbre-power-meter,ESN 8695 - SH SOUTH SUPER MAGALLANES COSS EE ROOM 2 L3,bc549dc0-460b-11ed-b04b-61e292f04158,4f8a68c0-f537-11ec-80a9-83a6055f2008
+si_cbre,cbre-power-meter,cbre-power-meter,cbre-power-meter,ESN 8697 - SH SOUTH SUPER MAGALLANES COSS SELECT L3,bc549dc1-460b-11ed-b04b-61e292f04158,c3dce490-f538-11ec-80a9-83a6055f2008
+si_cbre,cbre-power-meter,cbre-power-meter,cbre-power-meter,ESN 8716 - SH OSMENA HWAY ESTANISLAO COSS EE ROOM 1-1 L3,bc61bd20-460b-11ed-b04b-61e292f04158,4c262f20-f537-11ec-80a9-83a6055f2008
+si_cbre,cbre-power-meter,cbre-power-meter,cbre-power-meter,ESN 8690 - SH OSMENA HWAY ESTANISLAO COSS EE ROOM 1-2 L3,bc5adf50-460b-11ed-b04b-61e292f04158,4c365bc0-f537-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 7941 - SH C5 JULIA VARGAS COSS,bceebae0-460b-11ed-b04b-61e292f04158,478a1190-73ad-11ec-9475-a9ee85cde94b
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8432 - SH C5 JULIA VARGAS COSS SELECT L2,bc9417c0-460b-11ed-b04b-61e292f04158,93b76610-daf7-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 7942 - SH C5 HERITAGE TAGUIG COSS,bceac340-460b-11ed-b04b-61e292f04158,4ef94c20-73ad-11ec-9475-a9ee85cde94b
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8704 - SH C5 HERITAGE TAGUIG COSS L2,bc725ef0-460b-11ed-b04b-61e292f04158,1cd26ab0-f530-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 7943 - SH CAYETANO BLVD TAGUIG COSS,bce9d8e0-460b-11ed-b04b-61e292f04158,547f0630-73ad-11ec-9475-a9ee85cde94b
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8692 - SH CAYETANO BLVD TAGUIG COSS L2,bc719ba0-460b-11ed-b04b-61e292f04158,4e086b60-f531-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 7944 - SH ORTIGAS EXT BGY ISIDRO COSS,bcef0900-460b-11ed-b04b-61e292f04158,ab90eac0-734d-11ec-9475-a9ee85cde94b
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8423 - SH ORTIGAS EXT BGY ISIDRO COSS SELECT L2,bc8b8c41-460b-11ed-b04b-61e292f04158,d548ec80-dfba-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8702 - SH EDSA HERITAGE COSS,bcd0ab90-460b-11ed-b04b-61e292f04158,426d3a60-9389-11ec-b372-23a85237172f
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8419 - SH SOUTH SUPER MAGALLANES COSS,bcc0cd10-460b-11ed-b04b-61e292f04158,c0f00420-af37-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8418 - SH OSMENA HWAY ESTANISLAO COSS,bcba1650-460b-11ed-b04b-61e292f04158,4604b6b0-afdd-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8709 - SH OSMENA HWAY ESTANISLAO COSS EE ROOM 2 L3,bc61e430-460b-11ed-b04b-61e292f04158,89335fc0-f535-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 7951 - SH C5 ROAD EXTENSION PASAY COSS,bcc539e0-460b-11ed-b04b-61e292f04158,2ba09ce0-9abf-11ec-b372-23a85237172f
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8494 - SH OG1 SAN FERNANDO PAMPANGA COSS,bccb7b70-460b-11ed-b04b-61e292f04158,920a3920-9518-11ec-b372-23a85237172f
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 7982 - SH SINDALAN SFO PAMPANGA COSS,bcc0a600-460b-11ed-b04b-61e292f04158,e7303b90-af38-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8490 - SH SINDALAN SFO PAMPANGA COSS L2,bc6825c0-460b-11ed-b04b-61e292f04158,f3c003a0-f532-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8414 - SH SAN AGUSTIN SFO PAMPANGA COSS,bcba8b80-460b-11ed-b04b-61e292f04158,7b506e10-afdb-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8699 - SH SAN AGUSTIN SFO PAMPANGA COSS L2,bc6cb9a1-460b-11ed-b04b-61e292f04158,e76f3e40-f532-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 7948 - SH NLT1 NORTHBOUND BULACAN COSS,bcced6d1-460b-11ed-b04b-61e292f04158,55fa7820-9516-11ec-b372-23a85237172f
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8685 - SH TAGAYTAY KAYBAGAL SOUTH COSS,bcc5af10-460b-11ed-b04b-61e292f04158,df440d20-953f-11ec-b372-23a85237172f
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 7950 - SH ETON STA ROSA LAGUNA COSS,bcc9a6b0-460b-11ed-b04b-61e292f04158,fd34a700-953e-11ec-b372-23a85237172f
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8413 - SH BINAN SAN PEDRO HWAY LAGUNA COSS,bcb53450-460b-11ed-b04b-61e292f04158,4d3fc840-afe5-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8707 - SH BINAN SAN PEDRO HWAY LAGUNA COSS L2,bc6d2ed0-460b-11ed-b04b-61e292f04158,3bc8d470-f532-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8416 - SH BALINTAWAK LIPA COSS,bcb05250-460b-11ed-b04b-61e292f04158,3d8170f0-b3f7-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8698 - SH BALINTAWAK LIPA COSS L2,bc4e8340-460b-11ed-b04b-61e292f04158,ecf406c0-f55a-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8487 - SH OUANO AVE SOUTH COSS,bc787970-460b-11ed-b04b-61e292f04158,9f27d2d0-e495-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8480 - SH OUANO AVE SOUTH COSS L2,bc776800-460b-11ed-b04b-61e292f04158,1b4cd450-e496-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8449 - SH NATALIO BACALSO CEBU COSS,bc826480-460b-11ed-b04b-61e292f04158,f190d800-e080-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8429 - SH GEN MAXILOM CEBU COSS,bcaa10c0-460b-11ed-b04b-61e292f04158,390267c0-c52a-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8443 - SH GEN MAXILOM CEBU COSS L2,bc876d90-460b-11ed-b04b-61e292f04158,e20be9b0-e080-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8417 - SH BANILAD MARIA LUISA COSS,bc7c22f0-460b-11ed-b04b-61e292f04158,52006070-e491-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8442 - SH BANILAD MARIA LUISA COSS L2,bc7d3460-460b-11ed-b04b-61e292f04158,51bdb220-e491-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8488 - SH LACSON SANTA CLARA COSS,bc865c20-460b-11ed-b04b-61e292f04158,e3769d40-e080-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 7983 - SH ARANETA AVE TANGUB BCD SB COSS,bcab9760-460b-11ed-b04b-61e292f04158,ea30a6f0-c508-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8428 - SH ARANETA AVE TANGUB BCD SB COSS L2,bc81ef50-460b-11ed-b04b-61e292f04158,0341fa60-e48d-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8451 - SH TAFT NORTH MEGAWORLD ILOILO COSS,bca1ac50-460b-11ed-b04b-61e292f04158,55bb3b50-c5e1-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8422 - SH TAFT NORTH MEGAWORLD ILOILO COSS L2,bcb00430-460b-11ed-b04b-61e292f04158,a32ca450-c4fb-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8435 - SH DAMOSA LANANG DAVAO COSS,bca46b70-460b-11ed-b04b-61e292f04158,4329a940-c5e1-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8492 - SH DAMOSA LANANG DAVAO COSS L2,bc8f5cd0-460b-11ed-b04b-61e292f04158,1f47ad10-dc9d-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8430 - SH ECOLAND SANDAWA COSS,bca68e50-460b-11ed-b04b-61e292f04158,f58df470-c5e0-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8437 - SH AIRPORT RD XAVIER EST COSS,bc9f8970-460b-11ed-b04b-61e292f04158,9479da90-c5e1-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8440 - SH AIRPORT RD XAVIER EST COSS,bc9d3f80-460b-11ed-b04b-61e292f04158,b424b220-c5e1-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8441 - SH BAGO APLAYA TALOMO COSS,bc9aa771-460b-11ed-b04b-61e292f04158,c73d7590-c5e1-11ec-80a9-83a6055f2008
+si_cbre,cbre-modbus,cbre-modbus,cbre-modbus,ESN 8454 - SH BAGO APLAYA TALOMO COSS,bc8bb350-460b-11ed-b04b-61e292f04158,7abacdd0-dcca-11ec-80a9-83a6055f2008
+si_eastern,Eastern ISP Sensors,Eastern ISP Sensors,eastern-feedbackbutton,ESN 6811,#N/A,#N/A
+si_eastern,Eastern ISP Sensors,Eastern ISP Sensors,eastern-feedbackbutton,ESN 6383,#N/A,#N/A
+si_eastern,Eastern ISP Sensors,Eastern ISP Sensors,eastern-feedbackbutton,ESN 6815,#N/A,#N/A
+si_eastern,Eastern ISP Sensors,Eastern ISP Sensors,eastern-feedbackbutton,ESN 6396,#N/A,#N/A
+si_eastern,Eastern ISP Sensors,Eastern ISP Sensors,eastern-feedbackbutton,ESN 6744,#N/A,#N/A
+si_ulpi,ulpi-temp-probe,ulpi-temp-probe,ulpi-temp-probe,ESN 6501,a1fbd910-4a1c-11ed-b04b-61e292f04158,5f80e0e0-598b-11eb-bdfc-f78879e6bc1d
+si_ulpi,ulpi-outdoor-temphum,ulpi-outdoor-temphum,ulpi-outdoor-temphum,ESN 6525,a1ec96d0-4a1c-11ed-b04b-61e292f04158,6c7d3da0-598d-11eb-bdfc-f78879e6bc1d
+si_silikon,farm-watch-display-mqtt,farm-watch-display-uplink,,quezon-a-display,4d1f3330-451a-11ed-b04b-61e292f04158,#N/A
+si_silikon,farm-watch-display-mqtt,farm-watch-display-uplink,,quezon-b-display,f04874e0-451a-11ed-b04b-61e292f04158,#N/A
+si_silikon,farm-watch-display-mqtt,farm-watch-display-uplink,,bulacan-display,4b768c40-451a-11ed-b04b-61e292f04158,#N/A
+si_silikon,farm-watch,farm-watch,,fw-8461-FRONT,918bca70-4519-11ed-b04b-61e292f04158,b6a7b900-4842-11ed-b96a-419673351426
+si_silikon,farm-watch,farm-watch,,fw-8463-MIDDLE,964756b0-4519-11ed-b04b-61e292f04158,b03a8520-4842-11ed-b96a-419673351426
+si_silikon,farm-watch,farm-watch,,fw-8464-BACK,a483bf70-4519-11ed-b04b-61e292f04158,bbf80b30-4842-11ed-b96a-419673351426
+si_silikon,farm-watch,farm-watch,,fw-8462-FRONT,e1e25980-4519-11ed-b04b-61e292f04158,f40e4250-4842-11ed-b96a-419673351426
+si_silikon,farm-watch,farm-watch,,fw-8465-MIDDLE,bb9eaa30-4519-11ed-b04b-61e292f04158,1aed4740-4843-11ed-b96a-419673351426
+si_silikon,farm-watch,farm-watch,,fw-8466-BACK,e0abae40-4519-11ed-b04b-61e292f04158,46251f00-4843-11ed-b96a-419673351426
+si_silikon,farm-watch,farm-watch,,fw-8467-FRONT,3ada1370-451a-11ed-b04b-61e292f04158,fbcfbb90-4842-11ed-b96a-419673351426
+si_silikon,farm-watch,farm-watch,,fw-8468-MIDDLE,4cf9a9d0-451a-11ed-b04b-61e292f04158,158b41d0-4843-11ed-b96a-419673351426
+si_silikon,farm-watch,farm-watch,,fw-8469-BACK,c3f892e0-4519-11ed-b04b-61e292f04158,1132bd20-4843-11ed-b96a-419673351426
+si_silikon,farm-watch,farm-watch,,lux-nh3-001,9718b070-4519-11ed-b04b-61e292f04158,3f4b46a0-4843-11ed-b96a-419673351426
+si_silikon,farm-watch,farm-watch,,lux-nh3-002,348ad090-4556-11ed-b04b-61e292f04158,#N/A
+si_silikon,farm-watch,farm-watch,,fw-8836,d7a55c50-4542-11ed-b04b-61e292f04158,#N/A
+si_silikon,farm-watch,farm-watch,,fw-8837,11f7eee0-4543-11ed-b04b-61e292f04158,25750900-5031-11ed-b96a-419673351426
+engie_account,engie_peoplecounter2,engie_peoplecounter2,engie-peoplecounter2,ESN 5744,#N/A,#N/A
+engie_account,engie_peoplecounter,engie_peoplecounter,engie-peoplecounter,ESN 4133,#N/A,#N/A
+engie_account,bpi_bb_powermeter,bpi_bb_powermeter,bpi-bb-powermeter,ESN 5986,#N/A,#N/A
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131394b377111,908b9580-42c9-11ed-b04b-61e292f04158,ef151f20-c1bd-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313951376911,afa13c80-42ca-11ed-b04b-61e292f04158,1eeda820-c1be-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313954376411,b6de38f0-42c9-11ed-b04b-61e292f04158,04d7cce0-c1be-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313954376a11,bcef5f90-42c8-11ed-b04b-61e292f04158,932d1410-c262-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313954378d12,ecb32810-42c8-11ed-b04b-61e292f04158,fa73c4a0-c273-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313956376711,fd526000-42c8-11ed-b04b-61e292f04158,693642a0-c274-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313957376411,c2457e20-42c8-11ed-b04b-61e292f04158,1d318f10-c254-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313957376611,bf1a1250-42c9-11ed-b04b-61e292f04158,ac2c9b30-dc6a-11ea-a59e-63ae9db33722
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313957376811,0edae680-42c9-11ed-b04b-61e292f04158,c84b0a10-c273-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395b376411,6a541b30-42c9-11ed-b04b-61e292f04158,f30e9960-0233-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395b379112,0d99e590-42ca-11ed-b04b-61e292f04158,6f8cddc0-dc3d-11ea-a59e-63ae9db33722
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395c375e11,03a6bf40-42ca-11ed-b04b-61e292f04158,545f3150-c57d-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395c376811,e2099820-42ca-11ed-b04b-61e292f04158,6d619480-c1be-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395c379112,9f3a9630-42c9-11ed-b04b-61e292f04158,ba393cf0-0de4-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395c379212,#N/A,#N/A
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395c379312,fd6a8670-42c9-11ed-b04b-61e292f04158,b8b309f0-c268-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395d376a11,a1fd78f0-4388-11ed-b04b-61e292f04158,a2103ef0-c274-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395d379112,c4a280f0-42c8-11ed-b04b-61e292f04158,276da210-c250-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395d379312,97f9dba0-43fb-11ed-b04b-61e292f04158,e6a81f50-c5bd-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395e376611,7ac0aa60-42c9-11ed-b04b-61e292f04158,31fce480-c254-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395e376711,bd05d850-42c9-11ed-b04b-61e292f04158,f9ab7c70-079c-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131395f376411,eac7dd60-42c9-11ed-b04b-61e292f04158,#N/A
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313960376511,d84da3e0-42c9-11ed-b04b-61e292f04158,3f988f60-dc3d-11ea-a59e-63ae9db33722
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313960378e12,c1624a10-42c8-11ed-b04b-61e292f04158,d912b380-c592-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313960379112,7d0e1cd0-42c9-11ed-b04b-61e292f04158,3e8619c0-0c68-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313962376411,b405eba0-42c9-11ed-b04b-61e292f04158,6f6ea240-c592-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313962376711,d1bb2a30-42c8-11ed-b04b-61e292f04158,53e513b0-f71f-11ea-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313963375d11,add1a210-42c9-11ed-b04b-61e292f04158,3582fc50-18eb-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313964376a11,5f38c890-42c9-11ed-b04b-61e292f04158,34343d10-f7ed-11ea-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313965375d11,ff5eb550-42c9-11ed-b04b-61e292f04158,97175de0-c273-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313951376911,afa13c80-42ca-11ed-b04b-61e292f04158,1eeda820-c1be-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313965376411,806df430-42ca-11ed-b04b-61e292f04158,03f2d6f0-c275-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313965376a11,e3186580-42c9-11ed-b04b-61e292f04158,3e5423b0-c1be-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313966376a11,13195380-42c9-11ed-b04b-61e292f04158,d65bda40-0eb7-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313966378012,712c45e0-42c9-11ed-b04b-61e292f04158,018e9bc0-02ed-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313968379112,cab99660-4348-11ed-b04b-61e292f04158,243c4a60-c273-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313969376a11,a38e2b10-4388-11ed-b04b-61e292f04158,0657b950-03ad-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131396a376711,cdb81880-42c8-11ed-b04b-61e292f04158,6d4f1360-c1bd-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131396b376311,1043a060-439c-11ed-b04b-61e292f04158,01c57e90-047f-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131396c376411,#N/A,#N/A
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131396c376711,#N/A,#N/A
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131396c379212,01c52e00-42ca-11ed-b04b-61e292f04158,6af01d10-c273-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131396d378c12,ef44b2f0-42c9-11ed-b04b-61e292f04158,808f0de0-c1bd-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131396d379112,2608bd00-42c9-11ed-b04b-61e292f04158,a234a7d0-0d1b-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131396d379312,822891f0-42c9-11ed-b04b-61e292f04158,47369720-0155-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313970376311,66811a30-42c9-11ed-b04b-61e292f04158,886606c0-19a8-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313970376411,f2bc6a00-42c8-11ed-b04b-61e292f04158,5d7f1720-dc3c-11ea-a59e-63ae9db33722
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313972377f12,8b0a9660-42c9-11ed-b04b-61e292f04158,329aa180-c57d-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313973376411,a3f3cab0-4388-11ed-b04b-61e292f04158,708852e0-092e-11eb-989f-93eb583aac32
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313973378012,8aa78ed0-42c9-11ed-b04b-61e292f04158,1e427e40-c593-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313974377f12,a4709bd0-4388-11ed-b04b-61e292f04158,9e2fad50-c57d-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313978376411,#N/A,#N/A
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 3531313978376511,e093dd80-42c9-11ed-b04b-61e292f04158,976c6740-c269-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131397a376a11,a35a0980-42c9-11ed-b04b-61e292f04158,dd0b1160-dc3c-11ea-a59e-63ae9db33722
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 353131397c376b11,e6d514d0-42c8-11ed-b04b-61e292f04158,876f6620-c292-11ea-bf5b-e332fa1654b4
+engie_account,bpi_bb_peoplecounter,bpi_bb_peoplecounter,bpi-bb-peoplecounter,ESN 393435376e377206,be452b90-42c8-11ed-b04b-61e292f04158,9710a910-c592-11ea-bf5b-e332fa1654b4

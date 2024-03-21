@@ -1,0 +1,295 @@
+var payloadStr = decodeToString(payload);
+var payloadData = decodeToJson(payload);
+var devicename = checkdata(payloadData.end_device_ids.device_id);
+
+
+var devicetype = '';
+// FIRST EDIT
+// RENAMING OF ESN DEVICES
+var devicelist = [
+    {'rname': 'modbus-0000000000007941',   'dname': 'ESN 7941 - SH C5 JULIA VARGAS COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008432',   'dname': 'ESN 8432 - SH C5 JULIA VARGAS COSS SELECT L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000007942',   'dname': 'ESN 7942 - SH C5 HERITAGE TAGUIG COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008704',   'dname': 'ESN 8704 - SH C5 HERITAGE TAGUIG COSS L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000007943',   'dname': 'ESN 7943 - SH CAYETANO BLVD TAGUIG COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008692',   'dname': 'ESN 8692 - SH CAYETANO BLVD TAGUIG COSS L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000007944',   'dname': 'ESN 7944 - SH ORTIGAS EXT BGY ISIDRO COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008423',   'dname': 'ESN 8423 - SH ORTIGAS EXT BGY ISIDRO COSS SELECT L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008702',   'dname': 'ESN 8702 - SH EDSA HERITAGE COSS',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008419',   'dname': 'ESN 8419 - SH SOUTH SUPER MAGALLANES COSS',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008418',   'dname': 'ESN 8418 - SH OSMENA HWAY ESTANISLAO COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008709',   'dname': 'ESN 8709 - SH OSMENA HWAY ESTANISLAO COSS EE ROOM 2 L3',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000007951',   'dname': 'ESN 7951 - SH C5 ROAD EXTENSION PASAY COSS',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008494',   'dname': 'ESN 8494 - SH OG1 SAN FERNANDO PAMPANGA COSS',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000007982',   'dname': 'ESN 7982 - SH SINDALAN SFO PAMPANGA COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008490',   'dname': 'ESN 8490 - SH SINDALAN SFO PAMPANGA COSS L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008414',   'dname': 'ESN 8414 - SH SAN AGUSTIN SFO PAMPANGA COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008699',   'dname': 'ESN 8699 - SH SAN AGUSTIN SFO PAMPANGA COSS L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000007948',   'dname': 'ESN 7948 - SH NLT1 NORTHBOUND BULACAN COSS',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008685',   'dname': 'ESN 8685 - SH TAGAYTAY KAYBAGAL SOUTH COSS',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000007950',   'dname': 'ESN 7950 - SH ETON STA ROSA LAGUNA COSS',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008413',   'dname': 'ESN 8413 - SH BINAN SAN PEDRO HWAY LAGUNA COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008707',   'dname': 'ESN 8707 - SH BINAN SAN PEDRO HWAY LAGUNA COSS L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008416',   'dname': 'ESN 8416 - SH BALINTAWAK LIPA COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008698',   'dname': 'ESN 8698 - SH BALINTAWAK LIPA COSS L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008487',   'dname': 'ESN 8487 - SH OUANO AVE SOUTH COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008480',   'dname': 'ESN 8480 - SH OUANO AVE SOUTH COSS L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008449',   'dname': 'ESN 8449 - SH NATALIO BACALSO CEBU COSS',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008429',   'dname': 'ESN 8429 - SH GEN MAXILOM CEBU COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008443',   'dname': 'ESN 8443 - SH GEN MAXILOM CEBU COSS L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008417',   'dname': 'ESN 8417 - SH BANILAD MARIA LUISA COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008442',   'dname': 'ESN 8442 - SH BANILAD MARIA LUISA COSS L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008488',   'dname': 'ESN 8488 - SH LACSON SANTA CLARA COSS',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000007983',   'dname': 'ESN 7983 - SH ARANETA AVE TANGUB BCD SB COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008428',   'dname': 'ESN 8428 - SH ARANETA AVE TANGUB BCD SB COSS L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008451',   'dname': 'ESN 8451 - SH TAFT NORTH MEGAWORLD ILOILO COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008422',   'dname': 'ESN 8422 - SH TAFT NORTH MEGAWORLD ILOILO COSS L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008435',   'dname': 'ESN 8435 - SH DAMOSA LANANG DAVAO COSS',   'dtype': 'cbre-modbus'},
+    {'rname': 'modbus-0000000000008492',   'dname': 'ESN 8492 - SH DAMOSA LANANG DAVAO COSS L2',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008430',   'dname': 'ESN 8430 - SH ECOLAND SANDAWA COSS',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008437',   'dname': 'ESN 8437 - SH AIRPORT RD XAVIER EST COSS',   'dtype': 'cbre-modbus'},
+    //{'rname': 'modbus-0000000000008440',   'dname': 'ESN 8440 - SH AIRPORT RD XAVIER EST COSS',   'dtype': 'cbre-modbus'},
+    //{'rname': 'modbus-0000000000008441',   'dname': 'ESN 8441 - SH BAGO APLAYA TALOMO COSS',   'dtype': 'cbre-modbus'},
+    
+    {'rname': 'modbus-0000000000008454',   'dname': 'ESN 8454 - SH BAGO APLAYA TALOMO COSS',   'dtype': 'cbre-modbus'},
+    
+];
+
+var found = false;
+for (var i = 0; i < devicelist.length; i++) {
+    if (devicelist[i].rname === devicename) {
+        devicename = devicelist[i].dname;
+        devicetype = devicelist[i].dtype;
+        found = true;
+    }
+}
+
+var gw_list="";
+
+for (var g = 0; g < payloadData.uplink_message.rx_metadata.length; g++) {
+    gw_list=gw_list+"["+payloadData.uplink_message.rx_metadata[g].gateway_ids.gateway_id+" | R:"+payloadData.uplink_message.rx_metadata[g].rssi+" | S:"+payloadData.uplink_message.rx_metadata[g].snr+"]"+'\r\n';
+    
+    var rssi = 125;
+        if (Math.abs(payloadData.uplink_message.rx_metadata[g].rssi) <
+            Math.abs(rssi)) {
+                rssi = payloadData.uplink_message.rx_metadata[g].rssi;
+            }
+            
+    var snr = 10;
+        if (Math.abs(payloadData.uplink_message.rx_metadata[g].snr) <
+            Math.abs(snr)) {
+                snr = payloadData.uplink_message.rx_metadata[g].snr;
+            }
+}
+
+if (found){
+    
+    var counter = checkdata(payloadData.uplink_message.f_cnt);
+    var bandwidth = checkdata(payloadData.uplink_message.settings.data_rate.lora.bandwidth);
+    var sf = checkdata(payloadData.uplink_message.settings.data_rate.lora.spreading_factor);
+    
+    var parts = payloadData.uplink_message.received_at.match(/(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})\.(\d{4})/);
+    var ts = Date.UTC(parts[1], (parts[2] - 1), parts[3], parts[4], parts[5], parts[6]);
+    var tempTime = checkdata(payloadData.uplink_message.received_at);
+    
+    
+    var gw_count = checkdata(payloadData.uplink_message.rx_metadata.length);
+    //var snr = checkdata(payloadData.uplink_message.rx_metadata.snr);
+    //SECOND EDIT (update payloads below based on payloads received by TTS V3)
+    //packetMODBUS
+    var message = checkdata(payloadData.uplink_message.decoded_payload.message);
+    var voltage_L1 = checkdata(payloadData.uplink_message.decoded_payload.voltage_L1);
+    var voltage_L2 = checkdata(payloadData.uplink_message.decoded_payload.voltage_L2);
+    var voltage_L3 = checkdata(payloadData.uplink_message.decoded_payload.voltage_L3);
+    var voltage_L4 = checkdata(payloadData.uplink_message.decoded_payload.voltage_L4);
+    var voltage_L5 = checkdata(payloadData.uplink_message.decoded_payload.voltage_L5);
+    var voltage_L6 = checkdata(payloadData.uplink_message.decoded_payload.voltage_L6);
+    var voltage_L7 = checkdata(payloadData.uplink_message.decoded_payload.voltage_L7);
+    var voltage_L8 = checkdata(payloadData.uplink_message.decoded_payload.voltage_L8);
+    var voltage_L9 = checkdata(payloadData.uplink_message.decoded_payload.voltage_L9);
+    
+    var current_L1 = checkdata(payloadData.uplink_message.decoded_payload.current_L1);
+    var current_L2 = checkdata(payloadData.uplink_message.decoded_payload.current_L2);
+    var current_L3 = checkdata(payloadData.uplink_message.decoded_payload.current_L3);
+    var current_L4 = checkdata(payloadData.uplink_message.decoded_payload.current_L4);
+    var current_L5 = checkdata(payloadData.uplink_message.decoded_payload.current_L5);
+    var current_L6 = checkdata(payloadData.uplink_message.decoded_payload.current_L6);
+    var current_L7 = checkdata(payloadData.uplink_message.decoded_payload.current_L7);
+    var current_L8 = checkdata(payloadData.uplink_message.decoded_payload.current_L8);
+    var current_L9 = checkdata(payloadData.uplink_message.decoded_payload.current_L9);
+    
+    var Active_Power_L1 = checkdata(payloadData.uplink_message.decoded_payload.Active_Power_L1);
+    var Active_Power_L2 = checkdata(payloadData.uplink_message.decoded_payload.Active_Power_L2);
+    var Active_Power_L3 = checkdata(payloadData.uplink_message.decoded_payload.Active_Power_L3);
+    var Active_Power_L4 = checkdata(payloadData.uplink_message.decoded_payload.Active_Power_L4);
+    var Active_Power_L5 = checkdata(payloadData.uplink_message.decoded_payload.Active_Power_L5);
+    var Active_Power_L6 = checkdata(payloadData.uplink_message.decoded_payload.Active_Power_L6);
+    var Active_Power_L7 = checkdata(payloadData.uplink_message.decoded_payload.Active_Power_L7);
+    var Active_Power_L8 = checkdata(payloadData.uplink_message.decoded_payload.Active_Power_L8);
+    var Active_Power_L9 = checkdata(payloadData.uplink_message.decoded_payload.Active_Power_L9);
+    
+    var Apparent_Power_L1 = checkdata(payloadData.uplink_message.decoded_payload.Apparent_Power_L1);
+    var Apparent_Power_L2 = checkdata(payloadData.uplink_message.decoded_payload.Apparent_Power_L2);
+    var Apparent_Power_L3 = checkdata(payloadData.uplink_message.decoded_payload.Apparent_Power_L3);
+
+    var Power_Factor_L1 = checkdata(payloadData.uplink_message.decoded_payload.Power_Factor_L1);
+    var Power_Factor_L2 = checkdata(payloadData.uplink_message.decoded_payload.Power_Factor_L2);
+    var Power_Factor_L3 = checkdata(payloadData.uplink_message.decoded_payload.Power_Factor_L3);
+
+    var current_Total = checkdata(payloadData.uplink_message.decoded_payload.current_Total);
+    var Active_Power_Total = checkdata(payloadData.uplink_message.decoded_payload.Active_Power_Total);
+    var Apparent_Power_Total = checkdata(payloadData.uplink_message.decoded_payload.Apparent_Power_Total);
+    var Reactive_Power = checkdata(payloadData.uplink_message.decoded_payload.Reactive_Power);
+    var Power_Factor_Total = checkdata(payloadData.uplink_message.decoded_payload.Power_Factor_Total);
+        
+    var Frequency = checkdata(payloadData.uplink_message.decoded_payload.Frequency);
+    var Active_Energy_Import = checkdata(payloadData.uplink_message.decoded_payload.Active_Energy_Import);
+    var Active_Energy_Export = checkdata(payloadData.uplink_message.decoded_payload.Active_Energy_Export);
+    var Reactive_Energy_Import = checkdata(payloadData.uplink_message.decoded_payload.Reactive_Energy_Import);
+    var Reactive_Energy_Export = checkdata(payloadData.uplink_message.decoded_payload.Reactive_Energy_Export);
+        
+    var voltage_L1L2 = checkdata(payloadData.uplink_message.decoded_payload.voltage_L1L2);
+    var voltage_L2L3 = checkdata(payloadData.uplink_message.decoded_payload.voltage_L2L3);
+    var voltage_L3L1 = checkdata(payloadData.uplink_message.decoded_payload.voltage_L3L1);
+        
+    var current_N = checkdata(payloadData.uplink_message.decoded_payload.current_N);
+
+    var Active_Energy_Net = checkdata(payloadData.uplink_message.decoded_payload.Active_Energy_Net);
+    
+    //var batt_v = checkdata(payloadData.uplink_message.decoded_payload.batt_v);
+
+
+
+    var result = {
+      deviceName: devicename,
+        deviceType: devicetype,
+        telemetry: {
+        // default
+        ts:ts,
+        values: {
+            counter: counter,
+            bandwidth: bandwidth,
+            sf: sf,
+            rssi: rssi,
+            snr: snr,
+            gw_count : gw_count,
+            gw_list: gw_list,
+            DateTimeDisplay : convertDate(tempTime),
+        // THIRD EDIT (update payloads below based on payloads received by TTS V3)
+        //packetMODBUS
+            //voltage
+            voltage_L1: voltage_L1,
+            voltage_L2: voltage_L2,
+            voltage_L3: voltage_L3,
+            voltage_L4: voltage_L4,
+            voltage_L5: voltage_L5,
+            voltage_L6: voltage_L6,
+            voltage_L7: voltage_L7,
+            voltage_L8: voltage_L8,
+            voltage_L9: voltage_L9,
+            //current
+            current_L1: current_L1,
+            current_L2: current_L2,
+            current_L3: current_L3,
+            current_L4: current_L4,
+            current_L5: current_L5,
+            current_L6: current_L6,
+            current_L7: current_L7,
+            current_L8: current_L8,
+            current_L9: current_L9,
+            //Active Power
+            Active_Power_L1: Active_Power_L1,
+            Active_Power_L2: Active_Power_L2,
+            Active_Power_L3: Active_Power_L3,
+            Active_Power_L4: Active_Power_L4,
+            Active_Power_L5: Active_Power_L5,
+            Active_Power_L6: Active_Power_L6,
+            Active_Power_L7: Active_Power_L7,
+            Active_Power_L8: Active_Power_L8,
+            Active_Power_L9: Active_Power_L9,
+            //Apparent Power
+            Apparent_Power_L1:Apparent_Power_L1,
+            Apparent_Power_L2:Apparent_Power_L2,
+            Apparent_Power_L3:Apparent_Power_L3,
+            //Power Factor
+            Power_Factor_L1: Power_Factor_L1,
+            Power_Factor_L2: Power_Factor_L2,
+            Power_Factor_L3: Power_Factor_L3,
+            current_Total: current_Total,
+            Active_Power_Total: Active_Power_Total,
+            Apparent_Power_Total: Apparent_Power_Total,
+            Reactive_Power: Reactive_Power,
+            Power_Factor_Total: Power_Factor_Total,
+            Frequency: Frequency,
+            Active_Energy_Import: Active_Energy_Import,
+            Active_Energy_Export: Active_Energy_Export,
+            Reactive_Energy_Import: Reactive_Energy_Import,
+            Reactive_Energy_Export: Reactive_Energy_Export,
+            voltage_L1L2: voltage_L1L2,
+            voltage_L2L3: voltage_L2L3,
+            voltage_L3L1: voltage_L3L1,
+            current_N: current_N,
+            Active_Energy_Net: Active_Energy_Net,
+            message: message
+            //batt_v: batt_v
+        }
+    }    
+};
+    return result;
+}
+else{
+    return 0;
+}
+function decodeToString(payload) {
+    return String.fromCharCode.apply(String, payload);
+}
+
+function decodeToJson(payload) {
+    var str = decodeToString(payload);
+    var data = JSON.parse(str);
+    return data;
+}
+
+function checkdata(check) {
+    var cdata;
+    if (typeof payloadData.uplink_message.decoded_payload !==
+        "undefined") {
+        if (typeof check !== "undefined") {
+            cdata = check;
+        }
+    }
+    return cdata;
+}
+function convertDate(date) {
+    var timezone = "-08:00"; //Philippine time = +08:00, invert the sign
+    var myArray = date.split(".");
+    var _date = new Date(myArray[0] + "." + myArray[1].slice(0, 3) +timezone);
+    var arrayDate = _date.toLocaleString().split(" GMT");
+
+    return arrayDate[0];
+}
