@@ -1,0 +1,2 @@
+dev-all-devices.json.zip
+pwx-water-meter-demo.json.zip
